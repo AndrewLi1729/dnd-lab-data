@@ -1,0 +1,320 @@
+name,level,school,casting_time,range,duration,concentration,ritual,components,classes,damage_type,base_damage,attack_type,save,heals
+Acid Arrow,2,Evocation,1 action,90 feet,Instantaneous,False,False,VSM,Wizard,Acid,4d4,ranged,,False
+Acid Splash,0,Conjuration,1 action,60 feet,Instantaneous,False,False,VS,Sorcerer; Wizard,Acid,1d6,,DEX,False
+Aid,2,Abjuration,1 action,30 feet,8 hours,False,False,VSM,Cleric; Paladin,,,,,True
+Alarm,1,Abjuration,1 minute,30 feet,8 hours,False,True,VSM,Ranger; Wizard,,,,,False
+Alter Self,2,Transmutation,1 action,Self,Up to 1 hour,True,False,VS,Sorcerer; Wizard,,,,,False
+Animal Friendship,1,Enchantment,1 action,30 feet,24 hours,False,False,VSM,Bard; Druid; Ranger,,,,WIS,False
+Animal Messenger,2,Enchantment,1 action,30 feet,24 hours,False,True,VSM,Bard; Druid; Ranger,,,,,False
+Animal Shapes,8,Transmutation,1 action,30 feet,Up to 24 hours,True,False,VS,Druid,,,,,False
+Animate Dead,3,Necromancy,1 minute,10 feet,Instantaneous,False,False,VSM,Cleric; Wizard,,,,,False
+Animate Objects,5,Transmutation,1 action,120 feet,Up to 1 minute,True,False,VS,Bard; Sorcerer; Wizard,,,,,False
+Antilife Shell,5,Abjuration,1 action,Self,Up to 1 hour,True,False,VS,Druid,,,,,False
+Antimagic Field,8,Abjuration,1 action,Self,Up to 1 hour,True,False,VSM,Cleric; Wizard,,,,,False
+Antipathy/Sympathy,8,Enchantment,1 hour,60 feet,10 days,False,False,VSM,Druid; Wizard,,,,,False
+Arcane Eye,4,Divination,1 action,30 feet,Up to 1 hour,True,False,VSM,Cleric; Wizard,,,,,False
+Arcane Hand,5,Evocation,1 action,120 feet,Up to 1 minute,True,False,VSM,Wizard,,,,,False
+Arcane Lock,2,Abjuration,1 action,Touch,Until dispelled,False,False,VSM,Wizard,,,,,False
+Arcane Sword,7,Evocation,1 action,60 feet,Up to 1 minute,True,False,VSM,Bard; Wizard,Force,3d10,melee,,False
+Arcanist's Magic Aura,2,Illusion,1 action,Touch,24 hours,False,False,VSM,Wizard,,,,,False
+Astral Projection,9,Necromancy,1 hour,10 feet,Special,False,False,VSM,Cleric; Warlock; Wizard,,,,,False
+Augury,2,Divination,1 minute,Self,Instantaneous,False,True,VSM,Cleric,,,,,False
+Awaken,5,Transmutation,8 hours,Touch,Instantaneous,False,False,VSM,Bard; Druid,,,,,False
+Bane,1,Enchantment,1 action,30 feet,Up to 1 minute,True,False,VSM,Bard; Cleric,,,,CHA,False
+Banishment,4,Abjuration,1 action,60 feet,Up to 1 minute,True,False,VSM,Cleric; Paladin; Sorcerer; Warlock; Wizard,,,,CHA,False
+Barkskin,2,Transmutation,1 action,Touch,Up to 1 hour,True,False,VSM,Druid; Ranger,,,,,False
+Beacon of Hope,3,Abjuration,1 action,30 feet,Up to 1 minute,True,False,VS,Cleric,,,,,False
+Bestow Curse,3,Necromancy,1 action,Touch,Up to 1 minute,True,False,VS,Bard; Cleric; Wizard,,,,WIS,False
+Black Tentacles,4,Conjuration,1 action,90 feet,Up to 1 minute,True,False,VSM,Wizard,Bludgeoning,3d6,,DEX,False
+Blade Barrier,6,Evocation,1 action,90 feet,Up to 10 minutes,True,False,VS,Cleric,Slashing,6d10,,DEX,False
+Bless,1,Enchantment,1 action,30 feet,Up to 1 minute,True,False,VSM,Cleric; Paladin,,,,,False
+Blight,4,Necromancy,1 action,30 feet,Instantaneous,False,False,VS,Druid; Sorcerer; Warlock; Wizard,Necrotic,8d8,,CON,False
+Blindness/Deafness,2,Necromancy,1 action,30 feet,1 minute,False,False,V,Bard; Cleric; Sorcerer; Wizard,,,,CON,False
+Blink,3,Transmutation,1 action,Self,1 minute,False,False,VS,Sorcerer; Wizard,,,,,False
+Blur,2,Illusion,1 action,Self,Up to 1 minute,True,False,V,Sorcerer; Wizard,,,,,False
+Branding Smite,2,Evocation,1 bonus action,Self,Up to 1 minute,True,False,V,Paladin,Radiant,2d6,,,False
+Burning Hands,1,Evocation,1 action,Self,Instantaneous,False,False,VS,Sorcerer; Wizard,Fire,3d6,,DEX,False
+Call Lightning,3,Conjuration,1 action,120 feet,Up to 10 minutes,True,False,VS,Druid,Lightning,3d10,,,False
+Calm Emotions,2,Enchantment,1 action,60 feet,Up to 1 minute,True,False,VS,Bard; Cleric,,,,CHA,False
+Chain Lightning,6,Evocation,1 action,150 feet,Instantaneous,False,False,VSM,Sorcerer; Wizard,Lightning,10d8,,DEX,False
+Charm Person,1,Enchantment,1 action,30 feet,1 hour,False,False,VS,Bard; Druid; Sorcerer; Warlock; Wizard,,,,WIS,False
+Chill Touch,0,Necromancy,1 action,120 feet,1 round,False,False,VS,Sorcerer; Warlock; Wizard,Necrotic,1d8,ranged,,False
+Circle of Death,6,Necromancy,1 action,150 feet,Instantaneous,False,False,VSM,Sorcerer; Warlock; Wizard,Necrotic,8d6,,CON,False
+Clairvoyance,3,Divination,10 minutes,1 mile,Up to 10 minutes,True,False,VSM,Bard; Cleric; Sorcerer; Wizard,,,,,False
+Clone,8,Necromancy,1 hour,Touch,Instantaneous,False,False,VSM,Wizard,,,,,False
+Cloudkill,5,Conjuration,1 action,120 feet,Up to 10 minutes,True,False,VS,Sorcerer; Wizard,Poison,5d8,,CON,False
+Color Spray,1,Illusion,1 action,Self,1 round,False,False,VSM,Sorcerer; Wizard,,,,,False
+Command,1,Enchantment,1 action,60 feet,1 round,False,False,V,Cleric; Paladin,,,,WIS,False
+Commune,5,Divination,1 minute,Self,1 minute,False,True,VSM,Cleric,,,,,False
+Commune With Nature,5,Divination,1 minute,Self,Instantaneous,False,True,VS,Druid; Ranger,,,,,False
+Comprehend Languages,1,Divination,1 action,Self,1 hour,False,True,VSM,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Compulsion,4,Enchantment,1 action,30 feet,Up to 1 minute,True,False,VS,Bard,,,,WIS,False
+Cone of Cold,5,Evocation,1 action,Self,Instantaneous,False,False,VSM,Sorcerer; Wizard,Cold,8d8,,CON,False
+Confusion,4,Enchantment,1 action,90 feet,Up to 1 minute,True,False,VSM,Bard; Druid; Sorcerer; Wizard,,,,WIS,False
+Conjure Animals,3,Conjuration,1 action,60 feet,Up to 1 hour,True,False,VS,Druid; Ranger,,,,,False
+Conjure Celestial,7,Conjuration,1 minute,90 feet,Up to 1 hour,True,False,VS,Cleric,,,,,False
+Conjure Elemental,5,Conjuration,1 minute,90 feet,Up to 1 hour,True,False,VSM,Druid; Wizard,,,,,False
+Conjure Fey,6,Conjuration,1 minute,90 feet,Up to 1 hour,True,False,VS,Druid; Warlock,,,,,False
+Conjure Minor Elementals,4,Conjuration,1 minute,90 feet,Up to 1 hour,True,False,VS,Druid; Wizard,,,,,False
+Conjure Woodland Beings,4,Conjuration,1 action,60 feet,Up to 1 hour,True,False,VSM,Druid; Ranger,,,,,False
+Contact Other Plane,5,Divination,1 minute,Self,1 minute,False,True,V,Warlock; Wizard,,,,INT,False
+Contagion,5,Necromancy,1 action,Touch,7 days,False,False,VS,Cleric; Druid,,,melee,CON,False
+Contingency,6,Evocation,10 minutes,Self,10 days,False,False,VSM,Wizard,,,,,False
+Continual Flame,2,Evocation,1 action,Touch,Until dispelled,False,False,VSM,Cleric; Wizard,,,,,False
+Control Water,4,Transmutation,1 action,300 feet,Up to 10 minutes,True,False,VSM,Cleric; Druid; Wizard,Bludgeoning,2d8,,STR,False
+Control Weather,8,Transmutation,10 minutes,Self,Up to 8 hours,True,False,VSM,Cleric; Druid; Wizard,,,,,False
+Counterspell,3,Abjuration,1 reaction,60 feet,Instantaneous,False,False,S,Sorcerer; Warlock; Wizard,,,,,False
+Create Food and Water,3,Conjuration,1 action,30 feet,Instantaneous,False,False,VS,Cleric; Druid; Paladin,,,,,False
+Create Undead,6,Necromancy,1 minute,10 feet,Instantaneous,False,False,VSM,Cleric; Warlock; Wizard,,,,,False
+Create or Destroy Water,1,Transmutation,1 action,30 feet,Instantaneous,False,False,VSM,Cleric; Druid,,,,,False
+Creation,5,Illusion,1 minute,30 feet,Special,False,False,VSM,Sorcerer; Wizard,,,,,False
+Cure Wounds,1,Evocation,1 action,Touch,Instantaneous,False,False,VS,Bard; Cleric; Druid; Paladin; Ranger,,,,,True
+Dancing Lights,0,Evocation,1 action,120 feet,Up to 1 minute,True,False,VSM,Bard; Sorcerer; Wizard,,,,,False
+Darkness,2,Evocation,1 action,60 feet,Up to 10 minutes,True,False,VM,Sorcerer; Warlock; Wizard,,,,,False
+Darkvision,2,Transmutation,1 action,Touch,8 hours,False,False,VSM,Druid; Ranger; Sorcerer; Wizard,,,,,False
+Daylight,3,Evocation,1 action,60 feet,1 hour,False,False,VS,Cleric; Druid; Paladin; Ranger; Sorcerer,,,,,False
+Death Ward,4,Abjuration,1 action,Touch,8 hours,False,False,VS,Cleric; Paladin,,,,,False
+Delayed Blast Fireball,7,Evocation,1 action,150 feet,Up to 1 minute,True,False,VSM,Sorcerer; Wizard,Fire,12d6,,DEX,False
+Demiplane,8,Conjuration,1 action,60 feet,1 hour,False,False,S,Warlock; Wizard,,,,,False
+Detect Evil and Good,1,Divination,1 action,Self,Up to 10 minutes,True,False,VS,Cleric; Paladin,,,,,False
+Detect Magic,1,Divination,1 action,Self,Up to 10 minutes,True,True,VS,Bard; Cleric; Druid; Paladin; Ranger; Sorcerer; Wizard,,,,,False
+Detect Poison and Disease,1,Divination,1 action,Self,Up to 10 minutes,True,True,VSM,Cleric; Druid; Paladin; Ranger,,,,,False
+Detect Thoughts,2,Divination,1 action,Self,Up to 1 minute,True,False,VSM,Bard; Sorcerer; Wizard,,,,,False
+Dimension Door,4,Conjuration,1 action,500 feet,Instantaneous,False,False,V,Bard; Sorcerer; Warlock; Wizard,Force,4d6,,,False
+Disguise Self,1,Illusion,1 action,Self,1 hour,False,False,VS,Bard; Sorcerer; Wizard,,,,,False
+Disintegrate,6,Transmutation,1 action,60 feet,Instantaneous,False,False,VSM,Sorcerer; Wizard,Force,10d6 + 40,,DEX,False
+Dispel Evil and Good,5,Abjuration,1 action,Self,Up to 1 minute,True,False,VSM,Cleric; Paladin,,,,CHA,False
+Dispel Magic,3,Abjuration,1 action,120 feet,Instantaneous,False,False,VS,Bard; Cleric; Druid; Paladin; Sorcerer; Warlock; Wizard,,,,,False
+Divination,4,Divination,1 action,Self,Instantaneous,False,True,VSM,Druid,,,,,False
+Divine Favor,1,Evocation,1 bonus action,Self,Up to 1 minute,True,False,VS,Paladin,Radiant,1d4,,,False
+Divine Word,7,Evocation,1 bonus action,30 feet,Instantaneous,False,False,V,Cleric,,,,CHA,False
+Dominate Beast,4,Enchantment,1 action,60 feet,Up to 1 minute,True,False,VS,Druid; Sorcerer,,,,WIS,False
+Dominate Monster,8,Enchantment,1 action,60 feet,Up to 1 hour,True,False,VS,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Dominate Person,5,Enchantment,1 action,60 feet,Up to 1 minute,True,False,VS,Bard; Sorcerer; Wizard,,,,WIS,False
+Dream,5,Illusion,1 minute,Special,8 hours,False,False,VSM,Bard; Warlock; Wizard,Psychic,3d6,,WIS,False
+Druidcraft,0,Transmutation,1 action,30 feet,Instantaneous,False,False,VS,Druid,,,,,False
+Earthquake,8,Evocation,1 action,500 feet,Up to 1 minute,True,False,VSM,Cleric; Druid; Sorcerer,,,,,False
+Eldritch Blast,0,Evocation,1 action,120 feet,Instantaneous,False,False,VS,Warlock,Force,1d10,ranged,,False
+Enhance Ability,2,Transmutation,1 action,Touch,Up to 1 hour,True,False,VSM,Bard; Cleric; Druid; Sorcerer,,,,,False
+Enlarge/Reduce,2,Transmutation,1 action,30 feet,Up to 1 minute,True,False,VSM,Sorcerer; Wizard,,,,CON,False
+Entangle,1,Conjuration,1 action,90 feet,Up to 1 minute,True,False,VS,Druid,,,,STR,False
+Enthrall,2,Enchantment,1 action,60 feet,1 minute,False,False,VS,Bard; Warlock,,,,WIS,False
+Etherealness,7,Transmutation,1 action,Self,8 hours,False,False,VS,Bard; Cleric; Sorcerer; Warlock; Wizard,,,,,False
+Expeditious Retreat,1,Transmutation,1 bonus action,Self,Up to 10 minutes,True,False,VS,Sorcerer; Warlock; Wizard,,,,,False
+Eyebite,6,Necromancy,1 action,Self,Up to 1 minute,True,False,VS,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Fabricate,4,Transmutation,10 minutes,120 feet,Instantaneous,False,False,VS,Wizard,,,,,False
+Faerie Fire,1,Evocation,1 action,60 feet,Up to 1 minute,True,False,V,Druid,,,,DEX,False
+Faithful Hound,4,Conjuration,1 action,30 feet,8 hours,False,False,VSM,Wizard,Piercing,4d8,melee,,False
+False Life,1,Necromancy,1 action,Self,1 hour,False,False,VSM,Sorcerer; Wizard,,,,,True
+Fear,3,Illusion,1 action,Self,Up to 1 minute,True,False,VSM,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Feather Fall,1,Transmutation,1 reaction,60 feet,1 minute,False,False,VM,Bard; Sorcerer; Wizard,,,,,False
+Feeblemind,8,Enchantment,1 action,150 feet,Instantaneous,False,False,VSM,Bard; Druid; Warlock; Wizard,Psychic,4d6,,INT,False
+Find Familiar,1,Conjuration,1 hour,10 feet,Instantaneous,False,True,VSM,Wizard,,,,,False
+Find Steed,2,Conjuration,10 minutes,30 feet,Instantaneous,False,False,VS,Paladin,,,,,False
+Find Traps,2,Divination,1 action,120 feet,Instantaneous,False,False,VS,Cleric; Druid; Ranger,,,,,False
+Find the Path,6,Divination,1 minute,Self,Up to 24 hours,True,False,VSM,Bard; Cleric; Druid,,,,,False
+Finger of Death,7,Necromancy,1 action,60 feet,Instantaneous,False,False,VS,Sorcerer; Warlock; Wizard,Necrotic,7d8 + 30,,CON,False
+Fire Bolt,0,Evocation,1 action,120 feet,Instantaneous,False,False,VS,Sorcerer; Wizard,Fire,1d10,ranged,,False
+Fire Shield,4,Evocation,1 action,Self,10 minutes,False,False,VSM,Wizard,Fire,2d8,,,False
+Fire Storm,7,Evocation,1 action,150 feet,Instantaneous,False,False,VS,Cleric; Druid; Sorcerer,Fire,7d10,,DEX,False
+Fireball,3,Evocation,1 action,150 feet,Instantaneous,False,False,VSM,Sorcerer; Wizard,Fire,8d6,,DEX,False
+Flame Blade,2,Evocation,1 bonus action,Self,Up to 10 minutes,True,False,VSM,Druid,Fire,3d6,,,False
+Flame Strike,5,Evocation,1 action,60 feet,Instantaneous,False,False,VSM,Cleric,Fire; Radiant,4d6; 4d6,,DEX,False
+Flaming Sphere,2,Conjuration,1 action,60 feet,Up to 1 minute,True,False,VSM,Druid; Wizard,Fire,2d6,,,False
+Flesh to Stone,6,Transmutation,1 action,60 feet,Up to 1 minute,True,False,VSM,Warlock; Wizard,,,,CON,False
+Floating Disk,1,Conjuration,1 action,30 feet,1 hour,False,True,VSM,Wizard,,,,,False
+Fly,3,Transmutation,1 action,Touch,Up to 10 minutes,True,False,VSM,Sorcerer; Warlock; Wizard,,,,,False
+Fog Cloud,1,Conjuration,1 action,120 feet,Up to 1 hour,True,False,VS,Druid; Ranger; Sorcerer; Wizard,,,,,False
+Forbiddance,6,Abjuration,10 minutes,Touch,24 hours,False,True,VSM,Cleric,,,,,False
+Forcecage,7,Evocation,1 action,100 feet,1 hour,False,False,VSM,Bard; Warlock; Wizard,,,,,False
+Foresight,9,Divination,1 minute,Touch,8 hours,False,False,VSM,Bard; Druid; Warlock; Wizard,,,,,False
+Freedom of Movement,4,Abjuration,1 action,Touch,1 hour,False,False,VSM,Bard; Cleric; Druid; Ranger,,,,,False
+Freezing Sphere,6,Evocation,1 action,300 feet,Instantaneous,False,False,VSM,Wizard,Cold,10d6,,CON,False
+Gaseous Form,3,Transmutation,1 action,Touch,Up to 1 hour,True,False,VSM,Sorcerer; Warlock; Wizard,,,,,False
+Gate,9,Conjuration,1 action,60 feet,Up to 1 minute,True,False,VSM,Cleric; Sorcerer; Wizard,,,,,False
+Geas,5,Enchantment,1 minute,60 feet,30 days,False,False,V,Bard; Cleric; Druid; Paladin; Wizard,,,,WIS,False
+Gentle Repose,2,Necromancy,1 action,Touch,10 days,False,True,VSM,Cleric; Wizard,,,,,False
+Giant Insect,4,Transmutation,1 action,30 feet,Up to 10 minutes,True,False,VS,Druid,,,,,False
+Glibness,8,Transmutation,1 action,Self,1 hour,False,False,V,Bard; Warlock,,,,,False
+Globe of Invulnerability,6,Abjuration,1 action,Self,Up to 1 minute,True,False,VSM,Sorcerer; Wizard,,,,,False
+Glyph of Warding,3,Abjuration,1 hour,Touch,Until dispelled,False,False,VSM,Bard; Cleric; Wizard,,,,,False
+Goodberry,1,Transmutation,1 action,Touch,Instantaneous,False,False,VSM,Druid; Ranger,,,,,False
+Grease,1,Conjuration,1 action,60 feet,1 minute,False,False,VSM,Wizard,,,,DEX,False
+Greater Invisibility,4,Illusion,1 action,Touch,Up to 1 minute,True,False,VS,Bard; Sorcerer; Wizard,,,,,False
+Greater Restoration,5,Abjuration,1 action,Touch,Instantaneous,False,False,VSM,Bard; Cleric; Druid,,,,,False
+Guardian of Faith,4,Conjuration,1 action,30 feet,8 hours,False,False,V,Cleric,Radiant,20,,DEX,False
+Guards and Wards,6,Abjuration,10 minutes,Touch,24 hours,False,False,VSM,Bard; Wizard,,,,,False
+Guidance,0,Divination,1 action,Touch,Up to 1 minute,True,False,VS,Cleric; Druid,,,,,False
+Guiding Bolt,1,Evocation,1 action,120 feet,1 round,False,False,VS,Cleric,Radiant,4d6,ranged,,False
+Gust of Wind,2,Evocation,1 action,Self,Up to 1 minute,True,False,VSM,Druid; Sorcerer; Wizard,,,,STR,False
+Hallow,5,Evocation,24 hours,Touch,Until dispelled,False,False,VSM,Cleric,,,,CHA,False
+Hallucinatory Terrain,4,Illusion,10 minutes,300 feet,24 hours,False,False,VSM,Bard; Druid; Warlock; Wizard,,,,,False
+Harm,6,Necromancy,1 action,60 feet,Instantaneous,False,False,VS,Cleric,Necrotic,14d6,,CON,False
+Haste,3,Transmutation,1 action,30 feet,Up to 1 minute,True,False,VSM,Sorcerer; Wizard,,,,,False
+Heal,6,Evocation,1 action,60 feet,Instantaneous,False,False,VS,Cleric; Druid,,,,,True
+Healing Word,1,Evocation,1 bonus action,60 feet,Instantaneous,False,False,V,Bard; Cleric; Druid,,,,,True
+Heat Metal,2,Transmutation,1 action,60 feet,Up to 1 minute,True,False,VSM,Bard; Druid,Fire,2d8,,CON,False
+Hellish Rebuke,1,Evocation,1 reaction,60 feet,Instantaneous,False,False,VS,Warlock,Fire,2d10,,DEX,False
+Heroes' Feast,6,Conjuration,10 minutes,30 feet,Instantaneous,False,False,VSM,Cleric; Druid,,,,,False
+Heroism,1,Enchantment,1 action,Touch,Up to 1 minute,True,False,VS,Bard; Paladin,,,,,False
+Hideous Laughter,1,Enchantment,1 action,30 feet,Up to 1 minute,True,False,VSM,Bard; Wizard,,,,WIS,False
+Hold Monster,5,Enchantment,1 action,90 feet,Up to 1 minute,True,False,VSM,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Hold Person,2,Enchantment,1 action,60 feet,Up to 1 minute,True,False,VSM,Bard; Cleric; Druid; Sorcerer; Warlock; Wizard,,,,WIS,False
+Holy Aura,8,Abjuration,1 action,Self,Up to 1 minute,True,False,VSM,Cleric,,,,,False
+Hunter's Mark,1,Divination,1 bonus action,90 feet,Up to 1 hour,True,False,V,Ranger,,,,,False
+Hypnotic Pattern,3,Illusion,1 action,120 feet,Up to 1 minute,True,False,SM,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Ice Storm,4,Evocation,1 action,300 feet,Instantaneous,False,False,VSM,Druid; Sorcerer; Wizard,Bludgeoning; Cold,2d8; 4d6,,DEX,False
+Identify,1,Divination,1 minute,Touch,Instantaneous,False,True,VSM,Bard; Wizard,,,,,False
+Illusory Script,1,Illusion,1 minute,Touch,10 days,False,True,SM,Bard; Warlock; Wizard,,,,,False
+Imprisonment,9,Abjuration,1 minute,30 feet,Until dispelled,False,False,VSM,Warlock; Wizard,,,,WIS,False
+Incendiary Cloud,8,Conjuration,1 action,150 feet,Up to 1 minute,True,False,VS,Sorcerer; Wizard,Fire,10d8,,DEX,False
+Inflict Wounds,1,Necromancy,1 action,Touch,Instantaneous,False,False,VS,Cleric,Necrotic,3d10,melee,,False
+Insect Plague,5,Conjuration,1 action,300 feet,Up to 10 minutes,True,False,VSM,Cleric; Druid; Sorcerer,Piercing,4d10,,CON,False
+Instant Summons,6,Conjuration,1 minute,Touch,Until dispelled,False,True,VSM,Wizard,,,,,False
+Invisibility,2,Illusion,1 action,Touch,Up to 1 hour,True,False,VSM,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Irresistible Dance,6,Enchantment,1 action,30 feet,Up to 1 minute,True,False,V,Bard; Wizard,,,,,False
+Jump,1,Transmutation,1 action,Touch,1 minute,False,False,VSM,Druid; Ranger; Sorcerer; Wizard,,,,,False
+Knock,2,Transmutation,1 action,60 feet,Instantaneous,False,False,V,Bard; Sorcerer; Wizard,,,,,False
+Legend Lore,5,Divination,10 minutes,Self,Instantaneous,False,False,VSM,Bard; Cleric; Wizard,,,,,False
+Lesser Restoration,2,Abjuration,1 action,Touch,Instantaneous,False,False,VS,Bard; Cleric; Druid; Paladin; Ranger,,,,,False
+Levitate,2,Transmutation,1 action,60 feet,Up to 10 minutes,True,False,VSM,Sorcerer; Wizard,,,,,False
+Light,0,Evocation,1 action,Touch,1 hour,False,False,VM,Bard; Cleric; Sorcerer; Wizard,,,,DEX,False
+Lightning Bolt,3,Evocation,1 action,Self,Instantaneous,False,False,VSM,Sorcerer; Wizard,Lightning,8d6,,DEX,False
+Locate Animals or Plants,2,Divination,1 action,Self,Instantaneous,False,True,VSM,Bard; Druid; Ranger,,,,,False
+Locate Creature,4,Divination,1 action,Self,Up to 1 hour,True,False,VSM,Bard; Cleric; Druid; Paladin; Ranger; Wizard,,,,,False
+Locate Object,2,Divination,1 action,Self,Up to 10 minutes,True,False,VSM,Bard; Cleric; Druid; Paladin; Ranger; Wizard,,,,,False
+Longstrider,1,Transmutation,1 action,Touch,1 hour,False,False,VSM,Bard; Druid; Ranger; Wizard,,,,,False
+Mage Armor,1,Abjuration,1 action,Touch,8 hours,False,False,VSM,Sorcerer; Wizard,,,,,False
+Mage Hand,0,Conjuration,1 action,30 feet,1 minute,False,False,VS,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Magic Circle,3,Abjuration,1 minute,10 feet,1 hour,False,False,VSM,Cleric; Paladin; Warlock; Wizard,,,,CHA,False
+Magic Jar,6,Necromancy,1 minute,Self,Until dispelled,False,False,VSM,Wizard,,,,CHA,False
+Magic Missile,1,Evocation,1 action,120 feet,Instantaneous,False,False,VS,Sorcerer; Wizard,Force,3d4 + 3,,,False
+Magic Mouth,2,Illusion,1 minute,30 feet,Until dispelled,False,True,VSM,Bard; Wizard,,,,,False
+Magic Weapon,2,Transmutation,1 bonus action,Touch,Up to 1 hour,True,False,VS,Paladin; Wizard,,,,,False
+Magnificent Mansion,7,Conjuration,1 minute,300 feet,24 hours,False,False,VSM,Bard; Wizard,,,,,False
+Major Image,3,Illusion,1 action,120 feet,Up to 10 minutes,True,False,VSM,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Mass Cure Wounds,5,Conjuration,1 action,60 feet,Instantaneous,False,False,VS,Bard; Cleric; Druid,,,,,True
+Mass Heal,9,Conjuration,1 action,60 feet,Instantaneous,False,False,VS,Cleric,,,,,True
+Mass Healing Word,3,Evocation,1 bonus action,60 feet,Instantaneous,False,False,V,Cleric,,,,,True
+Mass Suggestion,6,Enchantment,1 action,60 feet,24 hours,False,False,VM,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Maze,8,Conjuration,1 action,60 feet,Up to 10 minutes,True,False,VS,Wizard,,,,,False
+Meld Into Stone,3,Transmutation,1 action,Touch,8 hours,False,True,VS,Cleric,,,,,False
+Mending,0,Transmutation,1 minute,Touch,Instantaneous,False,False,VSM,Cleric; Bard; Druid; Sorcerer; Wizard,,,,,False
+Message,0,Transmutation,1 action,120 feet,1 round,False,False,VSM,Bard; Sorcerer; Wizard,,,,,False
+Meteor Swarm,9,Evocation,1 action,1 mile,Instantaneous,False,False,VS,Sorcerer; Wizard,Fire; Bludgeoning,20d6; 20d6,,DEX,False
+Mind Blank,8,Abjuration,1 action,Touch,24 hours,False,False,VS,Bard; Wizard,,,,,False
+Minor Illusion,0,Illusion,1 action,30 feet,1 minute,False,False,SM,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Mirage Arcane,7,Illusion,10 minutes,Sight,10 days,False,False,VS,Bard; Druid; Wizard,,,,,False
+Mirror Image,2,Illusion,1 action,Self,1 minute,False,False,VS,Sorcerer; Warlock; Wizard,,,,,False
+Mislead,5,Illusion,1 action,Self,Up to 1 hour,True,False,S,Bard; Wizard,,,,,False
+Misty Step,2,Conjuration,1 bonus action,Self,Instantaneous,False,False,V,Sorcerer; Warlock; Wizard,,,,,False
+Modify Memory,5,Enchantment,1 action,30 feet,Up to 1 minute,True,False,VS,Bard; Wizard,,,,WIS,False
+Moonbeam,2,Evocation,1 action,120 feet,Up to 1 minute,True,False,VSM,Druid,Radiant,2d10,,CON,False
+Move Earth,6,Transmutation,1 action,120 feet,Up to 2 hours,True,False,VSM,Druid; Sorcerer; Wizard,,,,,False
+Nondetection,3,Abjuration,1 action,Touch,8 hours,False,False,VSM,Bard; Ranger; Wizard,,,,,False
+Pass Without Trace,2,Abjuration,1 action,Self,Up to 1 hour,True,False,VSM,Druid; Ranger,,,,,False
+Passwall,5,Transmutation,1 action,30 feet,1 hour,False,False,VSM,Wizard,,,,,False
+Phantasmal Killer,4,Illusion,1 action,120 feet,Up to 1 minute,True,False,VS,Wizard,Psychic,4d10,,WIS,False
+Phantom Steed,3,Illusion,1 minute,30 feet,1 hour,False,True,VS,Wizard,,,,,False
+Planar Ally,6,Conjuration,10 minutes,60 feet,Instantaneous,False,False,VS,Cleric,,,,,False
+Planar Binding,5,Abjuration,1 hour,60 feet,24 hours,False,False,VSM,Bard; Cleric; Druid; Wizard,,,,CHA,False
+Plane Shift,7,Conjuration,1 action,Touch,Instantaneous,False,False,VSM,Cleric; Druid; Sorcerer; Warlock; Wizard,,,melee,CHA,False
+Plant Growth,3,Transmutation,1 action,150 feet,Instantaneous,False,False,VS,Bard; Druid; Ranger,,,,,False
+Poison Spray,0,Conjuration,1 action,10 feet,Instantaneous,False,False,VS,Sorcerer; Warlock; Wizard; Druid,Poison,1d12,,CON,False
+Polymorph,4,Transmutation,1 action,60 feet,Up to 1 hour,True,False,VSM,Bard; Druid; Sorcerer; Wizard,,,,WIS,False
+Power Word Kill,9,Enchantment,1 action,60 feet,Instantaneous,False,False,V,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Power Word Stun,8,Enchantment,1 action,60 feet,Instantaneous,False,False,V,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Prayer of Healing,2,Evocation,10 minutes,30 feet,Instantaneous,False,False,V,Cleric,,,,,True
+Prestidigitation,0,Transmutation,1 action,10 feet,1 hour,False,False,VS,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Prismatic Spray,7,Evocation,1 action,Self,Instantaneous,False,False,VS,Sorcerer; Wizard,,10d6,,DEX,False
+Prismatic Wall,9,Abjuration,1 action,60 feet,10 minutes,False,False,VS,Wizard,,,,,False
+Private Sanctum,4,Abjuration,10 minutes,120 feet,24 hours,False,False,VSM,Wizard,,,,,False
+Produce Flame,0,Conjuration,1 action,Self,10 minutes,False,False,VS,Druid,Fire,1d8,ranged,,False
+Programmed Illusion,6,Illusion,1 action,120 feet,Until dispelled,False,False,VSM,Bard; Wizard,,,,,False
+Project Image,7,Illusion,1 action,500 miles,Up to 24 hours,True,False,VSM,Bard; Wizard,,,,,False
+Protection From Energy,3,Abjuration,1 action,Touch,Up to 1 hour,True,False,VS,Cleric; Druid; Ranger; Sorcerer; Wizard,,,,,False
+Protection from Evil and Good,1,Abjuration,1 action,Touch,Up to 10 minutes,True,False,VSM,Cleric; Paladin; Warlock; Wizard,,,,,False
+Protection from Poison,2,Abjuration,1 action,Touch,1 hour,False,False,VS,Cleric; Druid; Paladin; Ranger,,,,,False
+Purify Food and Drink,1,Transmutation,1 action,10 feet,Instantaneous,False,True,VS,Cleric; Druid; Paladin,,,,,False
+Raise Dead,5,Necromancy,1 hour,Touch,Instantaneous,False,False,VSM,Bard; Cleric; Paladin,,,,,False
+Ray of Enfeeblement,2,Necromancy,1 action,60 feet,Up to 1 minute,True,False,VS,Warlock; Wizard,,,ranged,CON,False
+Ray of Frost,0,Evocation,1 action,60 feet,Instantaneous,False,False,VS,Sorcerer; Wizard,Cold,1d8,ranged,,False
+Regenerate,7,Transmutation,1 minute,Touch,1 hour,False,False,VSM,Bard; Cleric; Druid,,,,,True
+Reincarnate,5,Transmutation,1 hour,Touch,Instantaneous,False,False,VSM,Druid,,,,,False
+Remove Curse,3,Abjuration,1 action,Touch,Instantaneous,False,False,VS,Cleric; Paladin; Warlock; Wizard,,,,,False
+Resilient Sphere,4,Evocation,1 action,30 feet,Up to 1 minute,True,False,VSM,Wizard,,,,DEX,False
+Resistance,0,Abjuration,1 action,Touch,Up to 1 minute,True,False,VSM,Cleric; Druid,,,,,False
+Resurrection,7,Necromancy,1 hour,Touch,Instantaneous,False,False,VSM,Bard; Cleric,,,,,False
+Reverse Gravity,7,Transmutation,1 action,100 feet,Up to 1 minute,True,False,VSM,Druid; Sorcerer; Wizard,,,,DEX,False
+Revivify,3,Conjuration,1 action,Touch,Instantaneous,False,False,VSM,Cleric; Paladin,,,,,False
+Rope Trick,2,Transmutation,1 action,Touch,1 hour,False,False,VSM,Wizard,,,,,False
+Sacred Flame,0,Evocation,1 action,60 feet,Instantaneous,False,False,VS,Cleric,Radiant,1d8,,DEX,False
+Sanctuary,1,Abjuration,1 bonus action,30 feet,1 minute,False,False,VSM,Cleric,,,,,False
+Scorching Ray,2,Evocation,1 action,120 feet,Instantaneous,False,False,VS,Sorcerer; Wizard,Fire,2d6,,,False
+Scrying,5,Divination,10 minutes,Self,Up to 10 minutes,True,False,VSM,Bard; Cleric; Druid; Warlock; Wizard,,,,WIS,False
+Secret Chest,4,Conjuration,1 action,Touch,Instantaneous,False,False,VSM,Wizard,,,,,False
+See Invisibility,2,Divination,1 action,Self,1 hour,False,False,VSM,Bard; Sorcerer; Wizard,,,,,False
+Seeming,5,Illusion,1 action,30 feet,8 hours,False,False,VS,Bard; Sorcerer; Wizard,,,,,False
+Sending,3,Evocation,1 action,Unlimited,1 round,False,False,VSM,Bard; Cleric; Wizard,,,,,False
+Sequester,7,Transmutation,1 action,Touch,Until dispelled,False,False,VSM,Wizard,,,,,False
+Shapechange,9,Transmutation,1 action,Self,Up to 1 hour,True,False,VSM,Druid; Wizard,,,,,False
+Shatter,2,Evocation,1 action,60 feet,Instantaneous,False,False,VSM,Bard; Sorcerer; Warlock; Wizard,Thunder,3d8,,CON,False
+Shield,1,Abjuration,1 reaction,Self,1 round,False,False,VS,Sorcerer; Wizard,,,,,False
+Shield of Faith,1,Abjuration,1 bonus action,60 feet,Up to 10 minutes,True,False,VSM,Cleric; Paladin,,,,,False
+Shillelagh,0,Transmutation,1 bonus action,Touch,1 minute,False,False,VSM,Druid,,,,,False
+Shocking Grasp,0,Evocation,1 action,Touch,Instantaneous,False,False,VS,Sorcerer; Wizard,Lightning,1d8,melee,,False
+Silence,2,Illusion,1 action,120 feet,Up to 10 minutes,True,True,VS,Bard; Cleric; Ranger,,,,,False
+Silent Image,1,Illusion,1 action,60 feet,Up to 10 minutes,True,False,VSM,Bard; Sorcerer; Wizard,,,,,False
+Simulacrum,7,Illusion,12 hours,Touch,Until dispelled,False,False,VSM,Wizard,,,,,False
+Sleep,1,Enchantment,1 action,90 feet,1 minute,False,False,VSM,Bard; Sorcerer; Wizard,,5d8,,,False
+Sleet Storm,3,Conjuration,1 action,150 feet,Up to 1 minute,True,False,VSM,Druid; Sorcerer; Wizard,,,,,False
+Slow,3,Transmutation,1 action,120 feet,Up to 1 minute,True,False,VSM,Sorcerer; Wizard,,,,WIS,False
+Spare the Dying,0,Necromancy,1 action,Touch,Instantaneous,False,False,VS,Cleric,,,,,False
+Speak with Animals,1,Divination,1 action,Self,10 minutes,False,True,VS,Bard; Druid; Ranger,,,,,False
+Speak with Dead,3,Necromancy,1 action,10 feet,10 minutes,False,False,VSM,Bard; Cleric,,,,,False
+Speak with Plants,3,Transmutation,1 action,Self,10 minutes,False,False,VS,Bard; Druid; Ranger,,,,,False
+Spider Climb,2,Transmutation,1 action,Touch,Up to 1 hour,True,False,VSM,Sorcerer; Warlock; Wizard,,,,,False
+Spike Growth,2,Transmutation,1 action,150 feet,Up to 10 minutes,True,False,VSM,Druid; Ranger,,,,,False
+Spirit Guardians,3,Conjuration,1 action,Self,Up to 10 minutes,True,False,VSM,Cleric,,,,,False
+Spiritual Weapon,2,Evocation,1 bonus action,60 feet,1 minute,False,False,VS,Cleric,Force,1d8 + MOD,melee,,False
+Stinking Cloud,3,Conjuration,1 action,90 feet,Up to 1 minute,True,False,VSM,Bard; Sorcerer; Wizard,,,,CON,False
+Stone Shape,4,Transmutation,1 action,Touch,Instantaneous,False,False,VSM,Cleric; Druid; Wizard,,,,,False
+Stoneskin,4,Abjuration,1 action,Touch,Up to 1 hour,True,False,VSM,Druid; Ranger; Sorcerer; Wizard,,,,,False
+Storm of Vengeance,9,Conjuration,1 action,Sight,Up to 1 minute,True,False,VS,Druid,Thunder,2d6,,CON,False
+Suggestion,2,Enchantment,1 action,30 feet,Up to 8 hours,True,False,VM,Bard; Sorcerer; Warlock; Wizard,,,,WIS,False
+Sunbeam,6,Evocation,1 action,Self,Up to 1 minute,True,False,VSM,Druid; Sorcerer; Wizard,Radiant,6d8,,CON,False
+Sunburst,8,Evocation,1 action,150 feet,Instantaneous,False,False,VSM,Druid; Sorcerer; Wizard,Radiant,12d6,,CON,False
+Symbol,7,Abjuration,1 minute,Touch,Until dispelled,False,False,VSM,Bard; Cleric; Wizard,,,,,False
+Telekinesis,5,Transmutation,1 action,60 feet,Up to 10 minutes,True,False,VS,Sorcerer; Wizard,,,,,False
+Telepathic Bond,5,Divination,1 action,30 feet,1 hour,False,True,VSM,Wizard,,,,,False
+Teleport,7,Conjuration,1 action,10 feet,Instantaneous,False,False,V,Bard; Sorcerer; Wizard,,,,,False
+Teleportation Circle,5,Conjuration,1 minute,10 feet,1 round,False,False,VM,Bard; Sorcerer; Wizard,,,,,False
+Thaumaturgy,0,Transmutation,1 action,30 feet,1 minute,False,False,V,Cleric,,,,,False
+Thunderwave,1,Evocation,1 action,Self,Instantaneous,False,False,VS,Bard; Druid; Sorcerer; Wizard,Thunder,2d8,,CON,False
+Time Stop,9,Transmutation,1 action,Self,Instantaneous,False,False,V,Sorcerer; Wizard,,,,,False
+Tiny Hut,3,Evocation,1 minute,Self,8 hours,False,True,VSM,Bard; Wizard,,,,,False
+Tongues,3,Divination,1 action,Touch,1 hour,False,False,VM,Bard; Cleric; Sorcerer; Warlock; Wizard,,,,,False
+Transport via Plants,6,Conjuration,1 action,10 feet,1 round,False,False,VS,Druid,,,,,False
+Tree Stride,5,Conjuration,1 action,Self,Up to 1 minute,True,False,VS,Druid; Ranger,,,,,False
+True Polymorph,9,Transmutation,1 action,30 feet,Up to 1 hour,True,False,VSM,Bard; Warlock; Wizard,,,,,False
+True Resurrection,9,Necromancy,1 hour,Touch,Instantaneous,False,False,VSM,Cleric; Druid,,,,,False
+True Seeing,6,Divination,1 action,Touch,1 hour,False,False,VSM,Bard; Cleric; Sorcerer; Warlock; Wizard,,,,,False
+True Strike,0,Divination,1 action,30 feet,Up to 1 round,True,False,S,Bard; Sorcerer; Warlock; Wizard,,,,,False
+Unseen Servant,1,Conjuration,1 action,60 feet,1 hour,False,True,VSM,Bard; Warlock; Wizard,,,,,False
+Vampiric Touch,3,Necromancy,1 action,Self,Up to 1 minute,True,False,VS,Warlock; Wizard,Necrotic,3d6,melee,,False
+Vicious Mockery,0,Enchantment,1 action,60 feet,Instantaneous,False,False,V,Bard,Psychic,1d4,,WIS,False
+Wall of Fire,4,Evocation,1 action,120 feet,Up to 1 minute,True,False,VSM,Druid; Sorcerer; Wizard,Fire,5d8,,DEX,False
+Wall of Force,5,Evocation,1 action,120 feet,Up to 10 minutes,True,False,VSM,Wizard,,,,,False
+Wall of Ice,6,Evocation,1 action,120 feet,Up to 10 minutes,True,False,VSM,Wizard,Cold,10d6,,DEX,False
+Wall of Stone,5,Evocation,1 action,120 feet,Up to 10 minutes,True,False,VSM,Druid; Sorcerer; Wizard,,,,,False
+Wall of Thorns,6,Conjuration,1 action,120 feet,Up to 10 minutes,True,False,VSM,Druid,Piercing,7d8,,DEX,False
+Warding Bond,2,Abjuration,1 action,Touch,1 hour,False,False,VSM,Cleric,,,,,False
+Water Breathing,3,Transmutation,1 action,30 feet,24 hours,False,True,VSM,Druid; Ranger; Sorcerer; Wizard,,,,,False
+Water Walk,3,Transmutation,1 action,30 feet,1 hour,False,True,VSM,Cleric; Druid; Ranger; Sorcerer,,,,,False
+Web,2,Conjuration,1 action,60 feet,Up to 1 hour,True,False,VSM,Sorcerer; Wizard,,,,,False
+Weird,9,Illusion,1 action,120 feet,Up to 1 minute,True,False,VS,Wizard,,,,WIS,False
+Wind Walk,6,Transmutation,1 minute,30 feet,8 hours,False,False,VSM,Druid,,,,,False
+Wind Wall,3,Evocation,1 action,120 feet,Up to 1 minute,True,False,VSM,Druid; Ranger,Bludgeoning,3d8,,STR,False
+Wish,9,Conjuration,1 action,Self,Instantaneous,False,False,V,Sorcerer; Wizard,,,,,False
+Word of Recall,6,Conjuration,1 action,5 feet,Instantaneous,False,False,V,Cleric,,,,,False
+Zone of Truth,2,Enchantment,1 action,60 feet,10 minutes,False,False,VS,Bard; Cleric; Paladin,,,,,False

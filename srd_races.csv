@@ -1,0 +1,10 @@
+name,size,speed,ability_bonuses,subraces
+Dwarf,Medium,25,CON +2,Hill Dwarf
+Elf,Medium,30,DEX +2,High Elf
+Halfling,Small,25,DEX +2,Lightfoot Halfling
+Human,Medium,30,STR +1; DEX +1; CON +1; INT +1; WIS +1; CHA +1,
+Dragonborn,Medium,30,STR +2; CHA +1,
+Gnome,Small,25,INT +2,Rock Gnome
+Half-Elf,Medium,30,CHA +2,
+Half-Orc,Medium,30,STR +2; CON +1,
+Tiefling,Medium,30,INT +1; CHA +2,

@@ -1,0 +1,335 @@
+name,size,type,alignment,armor_class,hit_points,hit_dice,challenge_rating,xp,speed_walk,speed_fly,legendary,str,dex,con,int,wis,cha
+Aboleth,Large,aberration,lawful evil,17,135,18d10,10.0,5900,10 ft.,,True,21,9,15,18,15,18
+Acolyte,Medium,humanoid,any alignment,10,9,2d8,0.25,50,30 ft.,,False,10,10,10,10,14,11
+Adult Black Dragon,Huge,dragon,chaotic evil,19,195,17d12,14.0,11500,40 ft.,80 ft.,True,23,14,21,14,13,17
+Adult Blue Dragon,Huge,dragon,lawful evil,19,225,18d12,16.0,15000,40 ft.,80 ft.,True,25,10,23,16,15,19
+Adult Brass Dragon,Huge,dragon,chaotic good,18,172,15d12,13.0,10000,40 ft.,80 ft.,True,23,10,21,14,13,17
+Adult Bronze Dragon,Huge,dragon,lawful good,19,212,17d12,15.0,13000,40 ft.,80 ft.,True,25,10,23,16,15,19
+Adult Copper Dragon,Huge,dragon,chaotic good,18,184,16d12,14.0,11500,40 ft.,80 ft.,True,23,12,21,18,15,17
+Adult Gold Dragon,Huge,dragon,lawful good,19,256,19d12,17.0,18000,40 ft.,80 ft.,True,27,14,25,16,15,24
+Adult Green Dragon,Huge,dragon,lawful evil,19,207,18d12,15.0,13000,40 ft.,80 ft.,True,23,12,21,18,15,17
+Adult Red Dragon,Huge,dragon,chaotic evil,19,256,19d12,17.0,18000,40 ft.,80 ft.,True,27,10,25,16,13,21
+Adult Silver Dragon,Huge,dragon,lawful good,19,243,18d12,16.0,15000,40 ft.,80 ft.,True,27,10,25,16,13,21
+Adult White Dragon,Huge,dragon,chaotic evil,18,200,16d12,13.0,10000,40 ft.,80 ft.,True,22,10,22,8,12,12
+Air Elemental,Large,elemental,neutral,15,90,12d10,5.0,1800,,90 ft.,False,14,20,14,6,10,6
+Ancient Black Dragon,Gargantuan,dragon,chaotic evil,22,367,21d20,21.0,33000,40 ft.,80 ft.,True,27,14,25,16,15,19
+Ancient Blue Dragon,Gargantuan,dragon,lawful evil,22,481,26d20,23.0,50000,40 ft.,80 ft.,True,29,10,27,18,17,21
+Ancient Brass Dragon,Gargantuan,dragon,chaotic good,20,297,17d20,20.0,25000,40 ft.,80 ft.,True,27,10,25,16,15,19
+Ancient Bronze Dragon,Gargantuan,dragon,lawful good,22,444,24d20,22.0,41000,40 ft.,80 ft.,True,29,10,27,18,17,21
+Ancient Copper Dragon,Gargantuan,dragon,chaotic good,21,350,20d20,21.0,33000,40 ft.,80 ft.,True,27,12,25,20,17,19
+Ancient Gold Dragon,Gargantuan,dragon,lawful good,22,546,28d20,24.0,62000,40 ft.,80 ft.,True,30,14,29,18,17,28
+Ancient Green Dragon,Gargantuan,dragon,lawful evil,21,385,22d20,22.0,41000,40 ft.,80 ft.,True,27,12,25,20,17,19
+Ancient Red Dragon,Gargantuan,dragon,chaotic evil,22,546,28d20,24.0,62000,40 ft.,80 ft.,True,30,10,29,18,15,23
+Ancient Silver Dragon,Gargantuan,dragon,lawful good,22,487,25d20,23.0,50000,40 ft.,80 ft.,True,30,10,29,18,15,23
+Ancient White Dragon,Gargantuan,dragon,chaotic evil,20,333,18d20,20.0,25000,40 ft.,80 ft.,True,26,10,26,10,13,14
+Androsphinx,Large,monstrosity,lawful neutral,17,199,19d10,17.0,18000,40 ft.,60 ft.,True,22,10,20,16,18,23
+Animated Armor,Medium,construct,unaligned,18,33,6d8,1.0,200,25 ft.,,False,14,11,13,1,3,1
+Ankheg,Large,monstrosity,unaligned,14,39,6d10,2.0,450,30 ft.,,False,17,11,13,1,13,6
+Ape,Medium,beast,unaligned,12,19,3d8,0.5,100,30 ft.,,False,16,14,14,6,12,7
+Archmage,Medium,humanoid,any alignment,12,99,18d8,12.0,8400,30 ft.,,False,10,14,12,20,15,16
+Assassin,Medium,humanoid,any non-good alignment,15,78,12d8,8.0,3900,30 ft.,,False,11,16,14,13,11,10
+Awakened Shrub,Small,plant,unaligned,9,10,3d6,0.0,10,20 ft.,,False,3,8,11,10,10,6
+Awakened Tree,Huge,plant,unaligned,13,59,7d12,2.0,450,20 ft.,,False,19,6,15,10,10,7
+Axe Beak,Large,beast,unaligned,11,19,3d10,0.25,50,50 ft.,,False,14,12,12,2,10,5
+Azer,Medium,elemental,lawful neutral,15,39,6d8,2.0,450,30 ft.,,False,17,12,15,12,13,10
+Baboon,Small,beast,unaligned,12,3,1d6,0.0,10,30 ft.,,False,8,14,11,4,12,6
+Badger,Tiny,beast,unaligned,10,3,1d4,0.0,10,20 ft.,,False,4,11,12,2,12,5
+Balor,Huge,fiend,chaotic evil,19,262,21d12,19.0,22000,40 ft.,80 ft.,False,26,15,22,20,16,22
+Bandit,Medium,humanoid,any non-lawful alignment,12,11,2d8,0.125,25,30 ft.,,False,11,12,12,10,10,10
+Bandit Captain,Medium,humanoid,any non-lawful alignment,15,65,10d8,2.0,450,30 ft.,,False,15,16,14,14,11,14
+Barbed Devil,Medium,fiend,lawful evil,15,110,13d8,5.0,1800,30 ft.,,False,16,17,18,12,14,14
+Basilisk,Medium,monstrosity,unaligned,12,52,8d8,3.0,700,20 ft.,,False,16,8,15,2,8,7
+Bat,Tiny,beast,unaligned,12,1,1d4,0.0,10,5 ft.,30 ft.,False,2,15,8,2,12,4
+Bearded Devil,Medium,fiend,lawful evil,13,52,8d8,3.0,700,30 ft.,,False,16,15,15,9,11,11
+Behir,Huge,monstrosity,neutral evil,17,168,16d12,11.0,7200,50 ft.,,False,23,16,18,7,14,12
+Berserker,Medium,humanoid,any chaotic alignment,13,67,9d8,2.0,450,30 ft.,,False,16,12,17,9,11,9
+Black Bear,Medium,beast,unaligned,11,19,3d8,0.5,100,40 ft.,,False,15,10,14,2,12,7
+Black Dragon Wyrmling,Medium,dragon,chaotic evil,17,33,6d8,2.0,450,30 ft.,60 ft.,False,15,14,13,10,11,13
+Black Pudding,Large,ooze,unaligned,7,85,10d10,4.0,1100,20 ft.,,False,16,5,16,1,6,1
+Blink Dog,Medium,fey,lawful good,13,22,4d8,0.25,50,40 ft.,,False,12,17,12,10,13,11
+Blood Hawk,Small,beast,unaligned,12,7,2d6,0.125,25,10 ft.,60 ft.,False,6,14,10,3,14,5
+Blue Dragon Wyrmling,Medium,dragon,lawful evil,17,52,8d8,3.0,700,30 ft.,60 ft.,False,17,10,15,12,11,15
+Boar,Medium,beast,unaligned,11,11,2d8,0.25,50,40 ft.,,False,13,11,12,2,9,5
+Bone Devil,Large,fiend,lawful evil,19,142,15d10,9.0,5000,40 ft.,40 ft.,False,18,16,18,13,14,16
+Brass Dragon Wyrmling,Medium,dragon,chaotic good,16,16,3d8,1.0,100,30 ft.,60 ft.,False,15,10,13,10,11,13
+Bronze Dragon Wyrmling,Medium,dragon,lawful good,17,32,5d8,2.0,450,30 ft.,60 ft.,False,17,10,15,12,11,15
+Brown Bear,Large,beast,unaligned,11,34,4d10,1.0,200,40 ft.,,False,19,10,16,2,13,7
+Bugbear,Medium,humanoid,chaotic evil,16,27,5d8,1.0,200,30 ft.,,False,15,14,13,8,11,9
+Bulette,Large,monstrosity,unaligned,17,94,9d10,5.0,1800,40 ft.,,False,19,11,21,2,10,5
+Camel,Large,beast,unaligned,9,15,2d10,0.125,25,50 ft.,,False,16,8,14,2,8,5
+Cat,Tiny,beast,unaligned,12,2,1d4,0.0,10,40 ft.,,False,3,15,10,3,12,7
+Centaur,Large,monstrosity,neutral good,12,45,6d10,2.0,450,50 ft.,,False,18,14,14,9,13,11
+Chain Devil,Medium,fiend,lawful evil,16,85,10d8,8.0,3900,30 ft.,,False,18,15,18,11,12,14
+Chimera,Large,monstrosity,chaotic evil,14,114,12d10,6.0,2300,30 ft.,60 ft.,False,19,11,19,3,14,10
+Chuul,Large,aberration,chaotic evil,16,93,11d10,4.0,1100,30 ft.,,False,19,10,16,5,11,5
+Clay Golem,Large,construct,unaligned,14,133,14d10,9.0,5000,20 ft.,,False,20,9,18,3,8,1
+Cloaker,Large,aberration,chaotic neutral,14,78,12d10,8.0,3900,10 ft.,40 ft.,False,17,15,12,13,12,14
+Cloud Giant,Huge,giant,neutral good (50%) or neutral evil (50%),14,200,16d12,9.0,5000,40 ft.,,False,27,10,22,12,16,16
+Cockatrice,Small,monstrosity,unaligned,11,27,6d6,0.5,100,20 ft.,40 ft.,False,6,12,12,2,13,5
+Commoner,Medium,humanoid,any alignment,10,4,1d8,0.0,10,30 ft.,,False,10,10,10,10,10,10
+Constrictor Snake,Large,beast,unaligned,12,13,2d10,0.25,50,30 ft.,,False,15,14,12,1,10,3
+Copper Dragon Wyrmling,Medium,dragon,chaotic good,16,22,4d8,1.0,200,30 ft.,60 ft.,False,15,12,13,14,11,13
+Couatl,Medium,celestial,lawful good,19,97,13d8,4.0,1100,30 ft.,90 ft.,False,16,20,17,18,20,18
+Crab,Tiny,beast,unaligned,11,2,1d4,0.0,10,20 ft.,,False,2,11,10,1,8,2
+Crocodile,Large,beast,unaligned,12,19,3d10,0.5,100,20 ft.,,False,15,10,13,2,10,5
+Cult Fanatic,Medium,humanoid,any non-good alignment,13,22,6d8,2.0,450,30 ft.,,False,11,14,12,10,13,14
+Cultist,Medium,humanoid,any non-good alignment,12,9,2d8,0.125,25,30 ft.,,False,11,12,10,10,11,10
+Darkmantle,Small,monstrosity,unaligned,11,22,5d6,0.5,100,10 ft.,30 ft.,False,16,12,13,2,10,5
+Death Dog,Medium,monstrosity,neutral evil,12,39,6d8,1.0,200,40 ft.,,False,15,14,14,3,13,6
+Deep Gnome (Svirfneblin),Small,humanoid,neutral good,15,16,3d6,0.5,50,20 ft.,,False,15,14,14,12,10,9
+Deer,Medium,beast,unaligned,13,4,1d8,0.0,10,50 ft.,,False,11,16,11,2,14,5
+Deva,Medium,celestial,lawful good,17,136,16d8,10.0,5900,30 ft.,90 ft.,False,18,18,18,17,20,20
+Dire Wolf,Large,beast,unaligned,14,37,5d10,1.0,200,50 ft.,,False,17,15,15,3,12,7
+Djinni,Large,elemental,chaotic good,17,161,14d10,11.0,7200,30 ft.,90 ft.,False,21,15,22,15,16,20
+Doppelganger,Medium,monstrosity,unaligned,14,52,8d8,3.0,700,30 ft.,,False,11,18,14,11,12,14
+Draft Horse,Large,beast,unaligned,10,19,3d10,0.25,50,40 ft.,,False,18,10,12,2,11,7
+Dragon Turtle,Gargantuan,dragon,neutral,20,341,22d20,17.0,18000,20 ft.,,False,25,10,20,10,12,12
+Dretch,Small,fiend,chaotic evil,11,18,4d6,0.25,25,20 ft.,,False,11,11,12,5,8,3
+Drider,Large,monstrosity,chaotic evil,19,123,13d10,6.0,2300,30 ft.,,False,16,16,18,13,14,12
+Drow,Medium,humanoid,neutral evil,15,13,3d8,0.25,50,30 ft.,,False,10,14,10,11,11,12
+Druid,Medium,humanoid,any alignment,11,27,5d8,2.0,450,30 ft.,,False,10,12,13,12,15,11
+Dryad,Medium,fey,neutral,11,22,5d8,1.0,200,30 ft.,,False,10,12,11,14,15,18
+Duergar,Medium,humanoid,lawful evil,16,26,4d8,1.0,200,25 ft.,,False,14,11,14,11,10,9
+Dust Mephit,Small,elemental,neutral evil,12,17,5d6,0.5,100,30 ft.,30 ft.,False,5,14,10,9,11,10
+Eagle,Small,beast,unaligned,12,3,1d6,0.0,10,10 ft.,60 ft.,False,6,15,10,2,14,7
+Earth Elemental,Large,elemental,neutral,17,126,12d10,5.0,1800,30 ft.,,False,20,8,20,5,10,5
+Efreeti,Large,elemental,lawful evil,17,200,16d10,11.0,7200,40 ft.,60 ft.,False,22,12,24,16,15,16
+Elephant,Huge,beast,unaligned,12,76,8d12,4.0,1100,40 ft.,,False,22,9,17,3,11,6
+Elk,Large,beast,unaligned,10,13,2d10,0.25,50,50 ft.,,False,16,10,12,2,10,6
+Erinyes,Medium,fiend,lawful evil,18,153,18d8,12.0,8400,30 ft.,60 ft.,False,18,16,18,14,14,18
+Ettercap,Medium,monstrosity,neutral evil,13,44,8d8,2.0,450,30 ft.,,False,14,15,13,7,12,8
+Ettin,Large,giant,chaotic evil,12,85,10d10,4.0,1100,40 ft.,,False,21,8,17,6,10,8
+Fire Elemental,Large,elemental,neutral,13,102,12d10,5.0,1800,50 ft.,,False,10,17,16,6,10,7
+Fire Giant,Huge,giant,lawful evil,18,162,13d12,9.0,5000,30 ft.,,False,25,9,23,10,14,13
+Flesh Golem,Medium,construct,neutral,9,93,11d8,5.0,1800,30 ft.,,False,19,9,18,6,10,5
+Flying Snake,Tiny,beast,unaligned,14,5,2d4,0.125,25,30 ft.,60 ft.,False,4,18,11,2,12,5
+Flying Sword,Small,construct,unaligned,17,17,5d6,0.25,50,0 ft.,50 ft.,False,12,15,11,1,5,1
+Frog,Tiny,beast,unaligned,11,1,1d4,0.0,0,20 ft.,,False,1,13,8,1,8,3
+Frost Giant,Huge,giant,neutral evil,15,138,12d12,8.0,3900,40 ft.,,False,23,9,21,9,10,12
+Gargoyle,Medium,elemental,chaotic evil,15,52,7d8,2.0,450,30 ft.,60 ft.,False,15,11,16,6,11,7
+Gelatinous Cube,Large,ooze,unaligned,6,84,8d10,2.0,450,15 ft.,,False,14,3,20,1,6,1
+Ghast,Medium,undead,chaotic evil,13,36,8d8,2.0,450,30 ft.,,False,16,17,10,11,10,8
+Ghost,Medium,undead,any alignment,11,45,10d8,4.0,1100,0 ft.,40 ft.,False,7,13,10,10,12,17
+Ghoul,Medium,undead,chaotic evil,12,22,5d8,1.0,200,30 ft.,,False,13,15,10,7,10,6
+Giant Ape,Huge,beast,unaligned,12,157,15d12,7.0,2900,40 ft.,,False,23,14,18,7,12,7
+Giant Badger,Medium,beast,unaligned,10,13,2d8,0.25,50,30 ft.,,False,13,10,15,2,12,5
+Giant Bat,Large,beast,unaligned,13,22,4d10,0.25,50,10 ft.,60 ft.,False,15,16,11,2,12,6
+Giant Boar,Large,beast,unaligned,12,42,5d10,2.0,450,40 ft.,,False,17,10,16,2,7,5
+Giant Centipede,Small,beast,unaligned,13,4,1d6,0.25,50,30 ft.,,False,5,14,12,1,7,3
+Giant Constrictor Snake,Huge,beast,unaligned,12,60,8d12,2.0,450,30 ft.,,False,19,14,12,1,10,3
+Giant Crab,Medium,beast,unaligned,15,13,3d8,0.125,25,30 ft.,,False,13,15,11,1,9,3
+Giant Crocodile,Huge,beast,unaligned,14,85,9d12,5.0,1800,30 ft.,,False,21,9,17,2,10,7
+Giant Eagle,Large,beast,neutral good,13,26,4d10,1.0,200,10 ft.,80 ft.,False,16,17,13,8,14,10
+Giant Elk,Huge,beast,unaligned,14,42,5d12,2.0,450,60 ft.,,False,19,16,14,7,14,10
+Giant Fire Beetle,Small,beast,unaligned,13,4,1d6,0.0,10,30 ft.,,False,8,10,12,1,7,3
+Giant Frog,Medium,beast,unaligned,11,18,4d8,0.25,50,30 ft.,,False,12,13,11,2,10,3
+Giant Goat,Large,beast,unaligned,11,19,3d10,0.5,100,40 ft.,,False,17,11,12,3,12,6
+Giant Hyena,Large,beast,unaligned,12,45,6d10,1.0,200,50 ft.,,False,16,14,14,2,12,7
+Giant Lizard,Large,beast,unaligned,12,19,3d10,0.25,50,30 ft.,,False,15,12,13,2,10,5
+Giant Octopus,Large,beast,unaligned,11,52,8d10,1.0,200,10 ft.,,False,17,13,13,4,10,4
+Giant Owl,Large,beast,neutral,12,19,3d10,0.25,50,5 ft.,60 ft.,False,13,15,12,8,13,10
+Giant Poisonous Snake,Medium,beast,unaligned,14,11,2d8,0.25,50,30 ft.,,False,10,18,13,2,10,3
+Giant Rat,Small,beast,unaligned,12,7,2d6,0.125,25,30 ft.,,False,7,15,11,2,10,4
+Giant Rat (Diseased),Small,beast,unaligned,12,7,2d6,0.125,25,30 ft.,,False,7,15,11,2,10,4
+Giant Scorpion,Large,beast,unaligned,15,52,7d10,3.0,700,40 ft.,,False,15,13,15,1,9,3
+Giant Sea Horse,Large,beast,unaligned,13,16,3d10,0.5,100,0 ft.,,False,12,15,11,2,12,5
+Giant Shark,Huge,beast,unaligned,13,126,11d12,5.0,1800,,,False,23,11,21,1,10,5
+Giant Spider,Large,beast,unaligned,14,26,4d10,1.0,200,30 ft.,,False,14,16,12,2,11,4
+Giant Toad,Large,beast,unaligned,11,39,6d10,1.0,200,20 ft.,,False,15,13,13,2,10,3
+Giant Vulture,Large,beast,neutral evil,10,22,3d10,1.0,200,10 ft.,60 ft.,False,15,10,15,6,12,7
+Giant Wasp,Medium,beast,unaligned,12,13,3d8,0.5,100,10 ft.,50 ft.,False,10,14,10,1,10,3
+Giant Weasel,Medium,beast,unaligned,13,9,2d8,0.125,25,40 ft.,,False,11,16,10,4,12,5
+Giant Wolf Spider,Medium,beast,unaligned,13,11,2d8,0.25,50,40 ft.,,False,12,16,13,3,12,4
+Gibbering Mouther,Medium,aberration,neutral,9,67,9d8,2.0,450,10 ft.,,False,10,8,16,3,10,6
+Glabrezu,Large,fiend,chaotic evil,17,157,15d10,9.0,5000,40 ft.,,False,20,15,21,19,17,16
+Gladiator,Medium,humanoid,any alignment,16,112,15d8,5.0,1800,30 ft.,,False,18,15,16,10,12,15
+Gnoll,Medium,humanoid,chaotic evil,15,22,5d8,0.5,100,30 ft.,,False,14,12,11,6,10,7
+Goat,Medium,beast,unaligned,10,4,1d8,0.0,10,40 ft.,,False,12,10,11,2,10,5
+Goblin,Small,humanoid,neutral evil,15,7,2d6,0.25,50,30 ft.,,False,8,14,10,10,8,8
+Gold Dragon Wyrmling,Medium,dragon,lawful good,17,60,8d8,3.0,700,30 ft.,60 ft.,False,19,14,17,14,11,16
+Gorgon,Large,monstrosity,unaligned,19,114,12d10,5.0,1800,40 ft.,,False,20,11,18,2,12,7
+Gray Ooze,Medium,ooze,unaligned,8,22,3d8,0.5,100,10 ft.,,False,12,6,16,1,6,2
+Green Dragon Wyrmling,Medium,dragon,lawful evil,17,38,7d8,2.0,450,30 ft.,60 ft.,False,15,12,13,14,11,13
+Green Hag,Medium,fey,neutral evil,17,82,11d8,3.0,700,30 ft.,,False,18,12,16,13,14,14
+Grick,Medium,monstrosity,neutral,14,27,6d8,2.0,450,30 ft.,,False,14,14,11,3,14,5
+Griffon,Large,monstrosity,unaligned,12,59,7d10,2.0,450,30 ft.,80 ft.,False,18,15,16,2,13,8
+Grimlock,Medium,humanoid,neutral evil,11,11,2d8,0.25,50,30 ft.,,False,16,12,12,9,8,6
+Guard,Medium,humanoid,any alignment,16,11,2d8,0.125,25,30 ft.,,False,13,12,12,10,11,10
+Guardian Naga,Large,monstrosity,lawful good,18,127,15d10,10.0,5900,40 ft.,,False,19,18,16,16,19,18
+Gynosphinx,Large,monstrosity,lawful neutral,17,136,16d10,11.0,7200,40 ft.,60 ft.,True,18,15,16,18,18,18
+Half-Red Dragon Veteran,Medium,humanoid,any alignment,18,65,10d8,5.0,1800,30 ft.,,False,16,13,14,10,11,10
+Harpy,Medium,monstrosity,chaotic evil,11,38,7d8,1.0,200,20 ft.,40 ft.,False,12,13,12,7,10,13
+Hawk,Tiny,beast,unaligned,13,1,1d4,0.0,10,10 ft.,60 ft.,False,5,16,8,2,14,6
+Hell Hound,Medium,fiend,lawful evil,15,45,7d8,3.0,700,50 ft.,,False,17,12,14,6,13,6
+Hezrou,Large,fiend,chaotic evil,16,136,13d10,8.0,3900,30 ft.,,False,19,17,20,5,12,13
+Hill Giant,Huge,giant,chaotic evil,13,105,10d12,5.0,1800,40 ft.,,False,21,8,19,5,9,6
+Hippogriff,Large,monstrosity,unaligned,11,19,3d10,1.0,200,40 ft.,60 ft.,False,17,13,13,2,12,8
+Hobgoblin,Medium,humanoid,lawful evil,18,11,2d8,0.5,100,30 ft.,,False,13,12,12,10,10,9
+Homunculus,Tiny,construct,neutral,13,5,2d4,0.0,10,20 ft.,40 ft.,False,4,15,11,10,10,7
+Horned Devil,Large,fiend,lawful evil,18,178,17d10,11.0,7200,20 ft.,60 ft.,False,22,17,21,12,16,17
+Hunter Shark,Large,beast,unaligned,12,45,6d10,2.0,450,,,False,18,13,15,1,10,4
+Hydra,Huge,monstrosity,unaligned,15,172,15d12,8.0,3900,30 ft.,,False,20,12,20,2,10,7
+Hyena,Medium,beast,unaligned,11,5,1d8,0.0,10,50 ft.,,False,11,13,12,2,12,5
+Ice Devil,Large,fiend,lawful evil,18,180,19d10,14.0,11500,40 ft.,,False,21,14,18,18,15,18
+Ice Mephit,Small,elemental,neutral evil,11,21,6d6,0.5,100,30 ft.,30 ft.,False,7,13,10,9,11,12
+Imp,Tiny,fiend,lawful evil,13,10,3d4,1.0,200,20 ft.,40 ft.,False,6,17,13,11,12,14
+Invisible Stalker,Medium,elemental,neutral,14,104,16d8,6.0,2300,50 ft.,50 ft.,False,16,19,14,10,15,11
+Iron Golem,Large,construct,unaligned,20,210,20d10,16.0,15000,30 ft.,,False,24,9,20,3,11,1
+Jackal,Small,beast,unaligned,12,3,1d6,0.0,10,40 ft.,,False,8,15,11,3,12,6
+Killer Whale,Huge,beast,unaligned,12,90,12d12,3.0,700,,,False,19,10,13,3,12,7
+Knight,Medium,humanoid,any alignment,18,52,8d8,3.0,700,30 ft.,,False,16,11,14,11,11,15
+Kobold,Small,humanoid,lawful evil,12,5,2d6,0.125,25,30 ft.,,False,7,15,9,8,7,8
+Kraken,Gargantuan,monstrosity,chaotic evil,18,472,27d20,23.0,50000,20 ft.,,True,30,11,25,22,18,20
+Lamia,Large,monstrosity,chaotic evil,13,97,13d10,4.0,1100,30 ft.,,False,16,13,15,14,15,16
+Lemure,Medium,fiend,lawful evil,7,13,3d8,0.0,10,15 ft.,,False,10,5,11,1,11,3
+Lich,Medium,undead,any evil alignment,17,135,18d8,21.0,33000,30 ft.,,True,11,16,16,20,14,16
+Lion,Large,beast,unaligned,12,26,4d10,1.0,200,50 ft.,,False,17,15,13,3,12,8
+Lizard,Tiny,beast,unaligned,10,2,1d4,0.0,10,20 ft.,,False,2,11,10,1,8,3
+Lizardfolk,Medium,humanoid,neutral,13,22,4d8,0.5,100,30 ft.,,False,15,10,13,7,12,7
+Mage,Medium,humanoid,any alignment,12,40,9d8,6.0,2300,30 ft.,,False,9,14,11,17,12,11
+Magma Mephit,Small,elemental,neutral evil,11,22,5d6,0.5,100,30 ft.,30 ft.,False,8,12,12,7,10,10
+Magmin,Small,elemental,chaotic neutral,14,9,2d6,0.5,100,30 ft.,,False,7,15,12,8,11,10
+Mammoth,Huge,beast,unaligned,13,126,11d12,6.0,2300,40 ft.,,False,24,9,21,3,11,6
+Manticore,Large,monstrosity,lawful evil,14,68,8d10,3.0,700,30 ft.,50 ft.,False,17,16,17,7,12,8
+Marilith,Large,fiend,chaotic evil,18,189,18d10,16.0,15000,40 ft.,,False,18,20,20,18,16,20
+Mastiff,Medium,beast,unaligned,12,5,1d8,0.125,25,40 ft.,,False,13,14,12,3,12,7
+Medusa,Medium,monstrosity,lawful evil,15,127,17d8,6.0,2300,30 ft.,,False,10,15,16,12,13,15
+Merfolk,Medium,humanoid,neutral,11,11,2d8,0.125,25,10 ft.,,False,10,13,12,11,11,12
+Merrow,Large,monstrosity,chaotic evil,13,45,6d10,2.0,450,10 ft.,,False,18,10,15,8,10,9
+Mimic,Medium,monstrosity,neutral,12,58,9d8,2.0,450,15 ft.,,False,17,12,15,5,13,8
+Minotaur,Large,monstrosity,chaotic evil,14,76,9d10,3.0,700,40 ft.,,False,18,11,16,6,16,9
+Minotaur Skeleton,Large,undead,lawful evil,12,67,9d10,2.0,450,40 ft.,,False,18,11,15,6,8,5
+Mule,Medium,beast,unaligned,10,11,2d8,0.125,25,40 ft.,,False,14,10,13,2,10,5
+Mummy,Medium,undead,lawful evil,11,58,9d8,3.0,700,20 ft.,,False,16,8,15,6,10,12
+Mummy Lord,Medium,undead,lawful evil,17,97,13d8,15.0,13000,20 ft.,,True,18,10,17,11,18,16
+Nalfeshnee,Large,fiend,chaotic evil,18,184,16d10,13.0,10000,20 ft.,30 ft.,False,21,10,22,19,12,15
+Night Hag,Medium,fiend,neutral evil,17,112,15d8,5.0,1800,30 ft.,,False,18,15,16,16,14,16
+Nightmare,Large,fiend,neutral evil,13,68,8d10,3.0,700,60 ft.,90 ft.,False,18,15,16,10,13,15
+Noble,Medium,humanoid,any alignment,15,9,2d8,0.125,25,30 ft.,,False,11,12,11,12,14,16
+Ochre Jelly,Large,ooze,unaligned,8,45,6d10,2.0,450,10 ft.,,False,15,6,14,2,6,1
+Octopus,Small,beast,unaligned,12,3,1d6,0.0,10,5 ft.,,False,4,15,11,3,10,4
+Ogre,Large,giant,chaotic evil,11,59,7d10,2.0,450,40 ft.,,False,19,8,16,5,7,7
+Ogre Zombie,Large,undead,neutral evil,8,85,9d10,2.0,450,30 ft.,,False,19,6,18,3,6,5
+Oni,Large,giant,lawful evil,16,110,13d10,7.0,2900,30 ft.,30 ft.,False,19,11,16,14,12,15
+Orc,Medium,humanoid,chaotic evil,13,15,2d8,0.5,100,30 ft.,,False,16,12,16,7,11,10
+Otyugh,Large,aberration,neutral,14,114,12d10,5.0,1800,30 ft.,,False,16,11,19,6,13,6
+Owl,Tiny,beast,unaligned,11,1,1d4,0.0,10,5 ft.,60 ft.,False,3,13,8,2,12,7
+Owlbear,Large,monstrosity,unaligned,13,59,7d10,3.0,700,40 ft.,,False,20,12,17,3,12,7
+Panther,Medium,beast,unaligned,12,13,3d8,0.25,50,50 ft.,,False,14,15,10,3,14,7
+Pegasus,Large,celestial,chaotic good,12,59,7d10,2.0,450,60 ft.,90 ft.,False,18,15,16,10,15,13
+Phase Spider,Large,monstrosity,unaligned,13,32,5d10,3.0,700,30 ft.,,False,15,15,12,6,10,6
+Pit Fiend,Large,fiend,lawful evil,19,300,24d10,20.0,25000,30 ft.,60 ft.,False,26,14,24,22,18,24
+Planetar,Large,celestial,lawful good,19,200,16d10,16.0,15000,40 ft.,120 ft.,False,24,20,24,19,22,25
+Plesiosaurus,Large,beast,unaligned,13,68,8d10,2.0,450,20 ft.,,False,18,15,16,2,12,5
+Poisonous Snake,Tiny,beast,unaligned,13,2,1d4,0.125,25,30 ft.,,False,2,16,11,1,10,3
+Polar Bear,Large,beast,unaligned,12,42,5d10,2.0,450,40 ft.,,False,20,10,16,2,13,7
+Pony,Medium,beast,unaligned,10,11,2d8,0.125,25,40 ft.,,False,15,10,13,2,11,7
+Priest,Medium,humanoid,any alignment,13,27,5d8,2.0,450,25 ft.,,False,10,10,12,13,16,13
+Pseudodragon,Tiny,dragon,neutral good,13,7,2d4,0.25,50,15 ft.,60 ft.,False,6,15,13,10,12,10
+Purple Worm,Gargantuan,monstrosity,unaligned,18,247,15d20,15.0,13000,50 ft.,,False,28,7,22,1,8,4
+Quasit,Tiny,fiend,chaotic evil,13,7,3d4,1.0,200,40 ft.,,False,5,17,10,7,10,10
+Quipper,Tiny,beast,unaligned,13,1,1d4,0.0,10,,,False,2,16,9,1,7,2
+Rakshasa,Medium,fiend,lawful evil,16,110,13d8,13.0,10000,40 ft.,,False,14,17,18,13,16,20
+Rat,Tiny,beast,unaligned,10,1,1d4,0.0,10,20 ft.,,False,2,11,9,2,10,4
+Raven,Tiny,beast,unaligned,12,1,1d4,0.0,10,10 ft.,50 ft.,False,2,14,8,2,12,6
+Red Dragon Wyrmling,Medium,dragon,chaotic evil,17,75,10d8,4.0,1100,30 ft.,60 ft.,False,19,10,17,12,11,15
+Reef Shark,Medium,beast,unaligned,12,22,4d8,0.5,100,,,False,14,13,13,1,10,4
+Remorhaz,Huge,monstrosity,unaligned,17,195,17d12,11.0,7200,30 ft.,,False,24,13,21,4,10,5
+Rhinoceros,Large,beast,unaligned,11,45,6d10,2.0,450,40 ft.,,False,21,8,15,2,12,6
+Riding Horse,Large,beast,unaligned,10,13,2d10,0.25,25,60 ft.,,False,16,10,12,2,11,7
+Roc,Gargantuan,monstrosity,unaligned,15,248,16d20,11.0,7200,20 ft.,120 ft.,False,28,10,20,3,10,9
+Roper,Large,monstrosity,neutral evil,20,93,11d10,5.0,1800,10 ft.,,False,18,8,17,7,16,6
+Rug of Smothering,Large,construct,unaligned,12,33,6d10,2.0,450,10 ft.,,False,17,14,10,1,3,1
+Rust Monster,Medium,monstrosity,unaligned,14,27,5d8,0.5,100,40 ft.,,False,13,12,13,2,13,6
+Saber-Toothed Tiger,Large,beast,unaligned,12,52,7d10,2.0,450,40 ft.,,False,18,14,15,3,12,8
+Sahuagin,Medium,humanoid,lawful evil,12,22,4d8,0.5,100,30 ft.,,False,13,11,12,12,13,9
+Salamander,Large,elemental,neutral evil,15,90,12d10,5.0,1800,30 ft.,,False,18,14,15,11,10,12
+Satyr,Medium,fey,chaotic neutral,14,31,7d8,0.5,100,40 ft.,,False,12,16,11,12,10,14
+Scorpion,Tiny,beast,unaligned,11,1,1d4,0.0,10,10 ft.,,False,2,11,8,1,8,2
+Scout,Medium,humanoid,any alignment,13,16,3d8,0.5,100,30 ft.,,False,11,14,12,11,13,11
+Sea Hag,Medium,fey,chaotic evil,14,52,7d8,2.0,450,30 ft.,,False,16,13,16,12,12,13
+Sea Horse,Tiny,beast,unaligned,11,1,1d4,0.0,0,,,False,1,12,8,1,10,2
+Shadow,Medium,undead,chaotic evil,12,16,3d8,0.5,100,40 ft.,,False,6,14,13,6,10,8
+Shambling Mound,Large,plant,unaligned,15,136,16d10,5.0,1800,20 ft.,,False,18,8,16,5,10,5
+Shield Guardian,Large,construct,unaligned,17,142,15d10,7.0,2900,30 ft.,,False,18,8,18,7,10,3
+Shrieker,Medium,plant,unaligned,5,13,3d8,0.0,10,0 ft.,,False,1,1,10,1,3,1
+Silver Dragon Wyrmling,Medium,dragon,lawful good,17,45,6d8,2.0,450,30 ft.,60 ft.,False,19,10,17,12,11,15
+Skeleton,Medium,undead,lawful evil,13,13,2d8,0.25,50,30 ft.,,False,10,14,15,6,8,5
+Solar,Large,celestial,lawful good,21,243,18d10,21.0,33000,50 ft.,150 ft.,True,26,22,26,25,25,30
+Specter,Medium,undead,chaotic evil,12,22,5d8,1.0,200,0 ft.,50 ft.,False,1,14,11,10,10,11
+Spider,Tiny,beast,unaligned,12,1,1d4,0.0,10,20 ft.,,False,2,14,8,1,10,2
+Spirit Naga,Large,monstrosity,chaotic evil,15,75,10d10,8.0,3900,40 ft.,,False,18,17,14,16,15,16
+Sprite,Tiny,fey,neutral good,15,2,1d4,0.25,50,10 ft.,40 ft.,False,3,18,10,14,13,11
+Spy,Medium,humanoid,any alignment,12,27,6d8,1.0,200,30 ft.,,False,10,15,10,12,14,16
+Steam Mephit,Small,elemental,neutral evil,10,21,6d6,0.25,50,30 ft.,30 ft.,False,5,11,10,11,10,12
+Stirge,Tiny,beast,unaligned,14,2,1d4,0.125,25,10 ft.,40 ft.,False,4,16,11,2,8,6
+Stone Giant,Huge,giant,neutral,17,126,11d12,7.0,2900,40 ft.,,False,23,15,20,10,12,9
+Stone Golem,Large,construct,unaligned,17,178,17d10,10.0,5900,30 ft.,,False,22,9,20,3,11,1
+Storm Giant,Huge,giant,chaotic good,16,230,20d12,13.0,10000,50 ft.,,False,29,14,20,16,18,18
+Succubus/Incubus,Medium,fiend,neutral evil,15,66,12d8,4.0,1100,30 ft.,60 ft.,False,8,17,13,15,12,20
+Swarm of Bats,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,0.25,50,0 ft.,30 ft.,False,5,15,10,2,12,4
+Swarm of Beetles,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,0.5,100,20 ft.,,False,3,13,10,1,7,1
+Swarm of Centipedes,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,0.5,100,20 ft.,,False,3,13,10,1,7,1
+Swarm of Insects,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,0.5,100,20 ft.,,False,3,13,10,1,7,1
+Swarm of Poisonous Snakes,Medium,swarm of Tiny beasts,unaligned,14,36,8d8,2.0,450,30 ft.,,False,8,18,11,1,10,3
+Swarm of Quippers,Medium,swarm of Tiny beasts,unaligned,13,28,8d8,1.0,200,0 ft.,,False,13,16,9,1,7,2
+Swarm of Rats,Medium,swarm of Tiny beasts,unaligned,10,24,7d8,0.25,50,30 ft.,,False,9,11,9,2,10,3
+Swarm of Ravens,Medium,swarm of Tiny beasts,unaligned,12,24,7d8,0.25,50,10 ft.,50 ft.,False,6,14,8,3,12,6
+Swarm of Spiders,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,0.5,100,20 ft.,,False,3,13,10,1,7,1
+Swarm of Wasps,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,0.5,100,5 ft.,30 ft.,False,3,13,10,1,7,1
+Tarrasque,Gargantuan,monstrosity,unaligned,25,676,33d20,30.0,155000,40 ft.,,True,30,11,30,3,11,11
+Thug,Medium,humanoid,any non-good alignment,11,32,5d8,0.5,100,30 ft.,,False,15,11,14,10,10,11
+Tiger,Large,beast,unaligned,12,37,5d10,1.0,200,40 ft.,,False,17,15,14,3,12,8
+Treant,Huge,plant,chaotic good,16,138,12d12,9.0,5000,30 ft.,,False,23,8,21,12,16,12
+Tribal Warrior,Medium,humanoid,any alignment,12,11,2d8,0.125,25,30 ft.,,False,13,11,12,8,11,8
+Triceratops,Huge,beast,unaligned,13,95,10d12,5.0,1800,50 ft.,,False,22,9,17,2,11,5
+Troll,Large,giant,chaotic evil,15,84,8d10,5.0,1800,30 ft.,,False,18,13,20,7,9,7
+Tyrannosaurus Rex,Huge,beast,unaligned,13,136,13d12,8.0,3900,50 ft.,,False,25,10,19,2,12,9
+Unicorn,Large,celestial,lawful good,12,67,9d10,5.0,1800,50 ft.,,True,18,14,15,11,17,16
+"Vampire, Vampire Form",Medium,undead,lawful evil,16,144,17d8,13.0,10000,30 ft.,,True,18,18,18,17,15,18
+"Vampire, Bat Form",Medium,undead,lawful evil,16,144,17d8,13.0,10000,5 ft.,30 ft.,True,18,18,18,17,15,18
+"Vampire, Mist Form",Medium,undead,lawful evil,16,144,17d8,13.0,10000,,20 ft.,True,18,18,18,17,15,18
+Vampire Spawn,Medium,undead,neutral evil,15,82,11d8,5.0,1800,30 ft.,,False,16,16,16,11,10,12
+Veteran,Medium,humanoid,any alignment,17,58,9d8,3.0,700,30 ft.,,False,16,13,14,10,11,10
+Violet Fungus,Medium,plant,unaligned,5,18,4d8,0.25,50,5 ft.,,False,3,1,10,1,3,1
+Vrock,Large,fiend,chaotic evil,15,104,11d10,6.0,2300,40 ft.,60 ft.,False,17,15,18,8,13,8
+Vulture,Medium,beast,unaligned,10,5,1d8,0.0,10,10 ft.,50 ft.,False,7,10,13,2,12,4
+Warhorse,Large,beast,unaligned,11,19,3d10,0.5,100,60 ft.,,False,18,12,13,2,12,7
+Warhorse Skeleton,Large,undead,lawful evil,13,22,3d10,0.5,100,60 ft.,,False,18,12,15,2,8,5
+Water Elemental,Large,elemental,neutral,14,114,12d10,5.0,1800,30 ft.,,False,18,14,18,5,10,8
+Weasel,Tiny,beast,unaligned,13,1,1d4,0.0,10,30 ft.,,False,3,16,8,2,12,3
+"Werebear, Bear Form",Medium,humanoid,neutral good,11,135,18d8,5.0,1800,40 ft.,,False,19,10,17,11,12,12
+"Werebear, Human Form",Medium,humanoid,neutral good,10,135,18d8,5.0,1800,30 ft.,,False,19,10,17,11,12,12
+"Werebear, Hybrid Form",Medium,humanoid,neutral good,11,135,18d8,5.0,1800,40 ft.,,False,19,10,17,11,12,12
+"Wereboar, Boar Form",Medium,humanoid,neutral evil,11,78,12d8,4.0,1100,40 ft.,,False,17,10,15,10,11,8
+"Wereboar, Human Form",Medium,humanoid,neutral evil,10,78,12d8,4.0,1100,30 ft.,,False,17,10,15,10,11,8
+"Wereboar, Hybrid Form",Medium,humanoid,neutral evil,11,78,12d8,4.0,1100,30 ft.,,False,17,10,15,10,11,8
+"Wererat, Human Form",Medium,humanoid,lawful evil,12,33,6d8,2.0,450,30 ft.,,False,10,15,12,11,10,8
+"Wererat, Hybrid Form",Medium,humanoid,lawful evil,12,33,6d8,2.0,450,30 ft.,,False,10,15,12,11,10,8
+"Wererat, Rat Form",Medium,humanoid,lawful evil,12,33,6d8,2.0,450,30 ft.,,False,10,15,12,11,10,8
+"Weretiger, Human Form",Medium,humanoid,neutral,12,120,16d8,4.0,1100,30 ft.,,False,17,15,16,10,13,11
+"Weretiger, Hybrid Form",Medium,humanoid,neutral,12,120,16d8,4.0,1100,30 ft.,,False,17,15,16,10,13,11
+"Weretiger, Tiger Form",Medium,humanoid,neutral,12,120,16d8,4.0,1100,40 ft.,,False,17,15,16,10,13,11
+"Werewolf, Human Form",Medium,humanoid,chaotic evil,11,58,9d8,3.0,700,30 ft.,,False,15,13,14,10,11,10
+"Werewolf, Hybrid Form",Medium,humanoid,chaotic evil,12,58,9d8,3.0,700,30 ft.,,False,15,13,14,10,11,10
+"Werewolf, Wolf Form",Medium,humanoid,chaotic evil,12,58,9d8,3.0,700,40 ft.,,False,15,13,14,10,11,10
+White Dragon Wyrmling,Medium,dragon,chaotic evil,16,32,5d8,2.0,450,30 ft.,60 ft.,False,14,10,14,5,10,11
+Wight,Medium,undead,neutral evil,14,45,6d8,3.0,700,30 ft.,,False,15,14,16,10,13,15
+Will-o'-Wisp,Tiny,undead,chaotic evil,19,22,9d4,2.0,450,0 ft.,50 ft.,False,1,28,10,13,14,11
+Winter Wolf,Large,monstrosity,neutral evil,13,75,10d10,3.0,700,50 ft.,,False,18,13,14,7,12,8
+Wolf,Medium,beast,unaligned,13,11,2d8,0.25,50,40 ft.,,False,12,15,12,3,12,6
+Worg,Large,monstrosity,neutral evil,13,26,4d10,0.5,100,50 ft.,,False,16,13,13,7,11,8
+Wraith,Medium,undead,neutral evil,13,67,9d8,5.0,1800,0 ft.,60 ft.,False,6,16,16,12,14,15
+Wyvern,Large,dragon,unaligned,13,110,13d10,6.0,2300,20 ft.,80 ft.,False,19,10,16,5,12,6
+Xorn,Medium,elemental,neutral,19,73,7d8,5.0,1800,20 ft.,,False,17,10,22,11,10,11
+Young Black Dragon,Large,dragon,chaotic evil,18,127,15d10,7.0,2900,40 ft.,80 ft.,False,19,14,17,12,11,15
+Young Blue Dragon,Large,dragon,lawful evil,18,152,16d10,9.0,5000,40 ft.,80 ft.,False,21,10,19,14,13,17
+Young Brass Dragon,Large,dragon,chaotic good,17,110,13d10,6.0,2300,40 ft.,80 ft.,False,19,10,17,12,11,15
+Young Bronze Dragon,Large,dragon,lawful good,18,142,15d10,8.0,3900,40 ft.,80 ft.,False,21,10,19,14,13,17
+Young Copper Dragon,Large,dragon,chaotic good,17,119,14d10,7.0,2900,40 ft.,80 ft.,False,19,12,17,16,13,15
+Young Gold Dragon,Large,dragon,lawful good,18,178,17d10,10.0,5900,40 ft.,80 ft.,False,23,14,21,16,13,20
+Young Green Dragon,Large,dragon,lawful evil,18,136,16d10,8.0,3900,40 ft.,80 ft.,False,19,12,17,16,13,15
+Young Red Dragon,Large,dragon,chaotic evil,18,178,17d10,10.0,5900,40 ft.,80 ft.,False,23,10,21,14,11,19
+Young Silver Dragon,Large,dragon,lawful good,18,168,16d10,9.0,5000,40 ft.,80 ft.,False,23,10,21,14,11,19
+Young White Dragon,Large,dragon,chaotic evil,17,133,14d10,6.0,2300,40 ft.,80 ft.,False,18,10,18,6,11,12
+Zombie,Medium,undead,neutral evil,8,22,3d8,0.25,50,20 ft.,,False,13,6,16,3,6,5

@@ -1,0 +1,13 @@
+name,hit_die,saving_throws,spellcasting_ability,subclasses
+Barbarian,12,STR; CON,,Berserker
+Bard,8,DEX; CHA,CHA,Lore
+Cleric,8,WIS; CHA,WIS,Life
+Druid,8,INT; WIS,WIS,Land
+Fighter,10,STR; CON,,Champion
+Monk,8,STR; DEX,,Open Hand
+Paladin,10,WIS; CHA,CHA,Devotion
+Ranger,10,STR; DEX,WIS,Hunter
+Rogue,8,DEX; INT,,Thief
+Sorcerer,6,CON; CHA,CHA,Draconic
+Warlock,8,WIS; CHA,CHA,Fiend
+Wizard,6,INT; WIS,INT,Evocation

@@ -19,6 +19,8 @@ Part of a side project exploring D&D data: what players build, what the rules al
 | `fireball_damage.csv` | 89,453 | Every damage or healing event, one row per target |
 | `fireball_combatants.csv` | 75,049 | Every character and creature in each session |
 | `flatten_fireball.py` | | Builds the four FIREBALL tables from the raw dataset |
+| `critrole_rolls.csv` | 28,878 | Every recorded roll in Critical Role campaigns 1 and 2 |
+| `clean_critrole.py` | | Builds `critrole_rolls.csv` from the CritRoleStats exports |
 
 ## Characters
 
@@ -91,11 +93,43 @@ To rebuild, download the `filtered/` folder from Hugging Face, then:
 python flatten_fireball.py path/to/filtered fireball_tables
 ```
 
+## Critical Role rolls
+
+Source: the "All Rolls" sheets compiled by [CritRoleStats](https://www.critrolestats.com/), "All Episodes" tabs: campaign 1 (Vox Machina, episodes 1 to 115) and campaign 2 (Mighty Nein, episodes 1 to 141). One row per roll.
+
+| Column | Meaning |
+| --- | --- |
+| campaign, episode, time | Where the roll happened (time into the episode) |
+| character | Who rolled, with a few spelling fixes |
+| roll_type | As recorded, with typos fixed (for example "Steath" to "Stealth") |
+| roll_group | attack, damage, healing, save, skill check, ability check, initiative or other |
+| total | Total after modifiers; blank when unknown |
+| natural_d20 | The natural die roll, only when it is 1 to 20 |
+| natural_raw | The natural value as recorded, including 88 impossible values such as -4 or 26 |
+| outcome | "success" or "fail" when that was recorded instead of a number |
+| crit | Recorded as a critical hit |
+| damage_text, damage_amount | Damage as written ("17 (12 + 5 Necrotic) to Creature 2") and its leading number |
+| kills | Kills credited to the roll; 0.5 means a shared kill |
+| disregarded | The discarded die of an advantage, disadvantage or reroll pair |
+| notes | Original notes |
+
+When a total was recorded as "Nat20" or "Nat1", that value moves to `natural_d20` and `total` is blank.
+
+Use `disregarded` with care: to test whether dice are fair, include every die thrown; to study what happened in the game, leave disregarded rolls out. Kept rolls alone skew high, because advantage keeps the better die.
+
+To rebuild from the two exports:
+
+```bash
+python clean_critrole.py "All Rolls - Tal'Dorei - All Episodes.csv" "All Rolls - Wildemount - All Episodes.csv" critrole_rolls.csv
+```
+
 ## Licences and attribution
 
 - **Characters**: from oganm/dnddata, Copyright (c) 2019 Burak Ogan Mancarci, MIT License. The full notice is in `LICENSE-dnddata`.
 - **SRD tables**: This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode. Data structured by the 5e-bits/5e-database project (MIT).
 
 - **FIREBALL tables**: derived from FIREBALL by Andrew Zhu, Karmanya Aggarwal, Alexander Feng, Lara J. Martin and Chris Callison-Burch, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: flattened into four tables, games split into sessions, outlier values flagged. Paper: Zhu et al. (2023), "FIREBALL: A Dataset of Dungeons and Dragons Actual-Play with Structured Game State Information", ACL 2023, https://aclanthology.org/2023.acl-long.229/
+
+- **Critical Role rolls**: compiled by CritRoleStats (https://www.critrolestats.com/) from the Critical Role show. The sheets state no licence, so this cleaned copy is shared for personal analysis with credit to CritRoleStats. Ask them before any commercial reuse.
 
 Only open-licence SRD content is included. No text from published books.

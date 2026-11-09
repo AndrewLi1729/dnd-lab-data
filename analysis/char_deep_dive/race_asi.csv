@@ -1,0 +1,90 @@
+family,subrace,match,fixed,floats,float_excl,source,verified,note
+Human,Standard,,Str:1;Dex:1;Con:1;Int:1;Wis:1;Cha:1,,,SRD,yes,
+Human,Variant,variant|var\.,,1;1,,PHB,no,feat at level 1
+Human,Mark of Passage,passage,Dex:2,1,Dex,ERLW,no,
+Human,Mark of Sentinel,sentinel,Con:2;Wis:1,,,ERLW,no,
+Human,Mark of Making,making,Int:2,1,Int,ERLW,no,
+Human,Mark of Handling,handling,Wis:2,1,Wis,ERLW,no,
+Human,Mark of Finding,finding,Wis:2;Con:1,,,ERLW,no,
+Elf,High,high|moon|gray|higher,Dex:2;Int:1,,,SRD,yes,
+Elf,Wood,wood|wald|aereni,Dex:2;Wis:1,,,PHB,no,
+Elf,Drow,dark|drow,Dex:2;Cha:1,,,PHB,no,
+Elf,Shadar-kai,shadow|shadar,Dex:2;Con:1,,,MToF,yes,app name Shadow Elf
+Elf,Sea,sea,Dex:2;Con:1,,,MToF,yes,
+Elf,Pallid,pale,Dex:2;Wis:1,,,EGtW,no,app name Pale Elf
+Elf,Half-Elf (misfiled),half|1/2|meio,Cha:2,1;1,Cha,SRD,yes,half-elf filed under Elf
+Eladrin,MToF,tof|^eladrin$,Dex:2;Cha:1,,,MToF,no,
+Eladrin,DMG,dmg|ua,Dex:2;Int:1,,,DMG,no,
+Half-Elf,Standard,,Cha:2,1;1,Cha,SRD,yes,variants keep same ASI
+Half-Elf,Mark of Detection,detection,Wis:2,1,Wis,ERLW,no,
+Half-Elf,Mark of Storm,storm,Cha:2;Dex:1,,,ERLW,no,
+Dwarf,Hill,hill,Con:2;Wis:1,,,SRD,yes,
+Dwarf,Mountain,mountain,Str:2;Con:2,,,PHB,no,
+Dwarf,Duergar,gray|duergar,Con:2;Str:1,,,SCAG/MToF,no,app name Gray Dwarf
+Dwarf,Mark of Warding,warding,Con:2;Int:1,,,ERLW,no,
+Tiefling,Asmodeus,,Cha:2;Int:1,,,SRD,yes,
+Tiefling,Zariel,zari,Cha:2;Str:1,,,MToF,no,app Lineage - Zari
+Tiefling,Glasya,glas,Cha:2;Dex:1,,,MToF,no,
+Tiefling,Levistus,levi,Cha:2;Con:1,,,MToF,no,
+Tiefling,Fierna,fier,Cha:2;Wis:1,,,MToF,no,
+Tiefling,Mephistopheles,meph,Cha:2;Int:1,,,MToF,no,
+Tiefling,Dispater,disp,Cha:2;Dex:1,,,MToF,no,
+Tiefling,Baalzebul,baal,Cha:2;Int:1,,,MToF,no,
+Tiefling,Mammon,mamm,Cha:2;Int:1,,,MToF,no,
+Tiefling,Lineage (VRGtR),reborn|hexed,,2;1,,VRGtR,no,Reborn/Hexed lineage: free +2/+1
+Halfling,Lightfoot,lightfoot,Dex:2;Cha:1,,,SRD,yes,
+Halfling,Stout,stout,Dex:2;Con:1,,,PHB,no,
+Halfling,Ghostwise,ghost|ghastly,Dex:2;Wis:1,,,SCAG,no,Ghastly assumed = Ghostwise (inferred)
+Halfling,Lotusden,lotus,Dex:2;Wis:1,,,EGtW,no,
+Halfling,Mark of Healing,healing,Dex:2;Wis:1,,,ERLW,no,
+Halfling,Mark of Hospitality,hospitality,Dex:2;Cha:1,,,ERLW,no,
+Dragonborn,Standard,,Str:2;Cha:1,,,SRD,yes,
+Dragonborn,Fizban,chromatic|gem|metallic,,2;1,,FToD,no,
+Dragonborn,Draconblood,draconblood,Int:2;Cha:1,,,EGtW,no,
+Gnome,Rock,rock,Int:2;Con:1,,,SRD,yes,
+Gnome,Forest,forest,Int:2;Dex:1,,,PHB,no,
+Gnome,Deep,deep,Int:2;Dex:1,,,SCAG/MToF,no,
+Gnome,Mark of Scribing,scribing,Int:2;Cha:1,,,ERLW,no,
+Half-Orc,Standard,,Str:2;Con:1,,,SRD,yes,
+Aasimar,Protector,protector,Cha:2;Wis:1,,,VGtM,no,
+Aasimar,Scourge,scourge,Cha:2;Con:1,,,VGtM,no,
+Aasimar,Fallen,fallen,Cha:2;Str:1,,,VGtM,no,
+Aasimar,DMG,,Cha:2;Wis:1,,,DMG,no,unlabelled Aasimar: any subrace allowed
+Tabaxi,Standard,,Dex:2;Cha:1,,,VGtM,no,
+Goliath,Standard,,Str:2;Con:1,,,VGtM,no,
+Genasi,Air,air,Con:2;Dex:1,,,EEPC,no,
+Genasi,Earth,earth,Con:2;Str:1,,,EEPC,no,
+Genasi,Fire,fire,Con:2;Int:1,,,EEPC,no,
+Genasi,Water,water,Con:2;Wis:1,,,EEPC,no,
+Warforged,Standard,,Con:2,1,Con,ERLW,no,
+Warforged,UA Juggernaut,juggernaut|juggeenaut,Str:2;Con:1,,,UA,no,
+Warforged,UA Envoy,envoy,Con:1,1;1,Con,UA,no,
+Goblin,Standard,,Dex:2;Con:1,,,VGtM,no,
+Firbolg,Standard,,Wis:2;Str:1,,,VGtM,no,
+Turtle,Tortle,,Str:2;Wis:1,,,TP,yes,app name Turtle
+Kobold,Standard,,Dex:2;Str:-2,,,VGtM,no,
+Lizardfolk,Standard,,Con:2;Wis:1,,,VGtM,no,
+Kenku,Standard,,Dex:2;Wis:1,,,VGtM,no,
+Triton,Standard,,Str:1;Con:1;Cha:1,,,VGtM,yes,
+Minotaur,Standard,,Str:2;Con:1,,,GGtR,yes,
+Aarakocra,Standard,,Dex:2;Wis:1,,,EEPC,no,app name Birdfolk
+Bugbear,Standard,,Str:2;Dex:1,,,VGtM,no,
+Orc,Volo,,Str:2;Con:1;Int:-2,,,VGtM,no,
+Orc,Eberron,,Str:2;Con:1,,,ERLW,no,unlabelled: either allowed
+Yaun-Ti,Pureblood,,Cha:2;Int:1,,,VGtM,no,app name Serpentblood
+Changeling,Standard,,Cha:2,1,Cha,ERLW,no,
+Loxodon,Standard,,Con:2;Wis:1,,,GGtR,no,app name Elephantine
+Custom,Custom Lineage,,,2,,TCoE,no,
+Centaur,Standard,,Str:2;Wis:1,,,GGtR,yes,
+Shifter,Beasthide,hide,Con:2;Str:1,,,ERLW,no,
+Shifter,Longtooth,tooth,Str:2;Dex:1,,,ERLW,no,
+Shifter,Swiftstride,stride,Dex:2;Cha:1,,,ERLW,no,
+Shifter,Wildhunt,hunt,Wis:2;Dex:1,,,ERLW,no,
+Hobgoblin,Standard,,Con:2;Int:1,,,VGtM,no,
+Simic hybrid,Standard,,Con:2,1,Con,GGtR,no,app name Animal Hybrid
+Gith,Githyanki,yan,Int:1;Str:2,,,MToF,no,app name Geth - Yan
+Gith,Githzerai,zer,Int:1;Wis:2,,,MToF,no,
+Kalashtar,Standard,,Wis:2;Cha:1,,,ERLW,no,app name Dreamtouched
+Leonin,Standard,,Con:2;Str:1,,,MOoT,yes,app name Leonine
+Satyr,Standard,,Cha:2;Dex:1,,,MOoT,yes,
+Vedalken,Standard,,Int:2;Wis:1,,,GGtR,yes,app name Violetken

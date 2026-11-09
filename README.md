@@ -22,6 +22,7 @@ Part of a side project exploring D&D data: what players build, what the rules al
 | `critrole_rolls.csv` | 28,878 | Every recorded roll in Critical Role campaigns 1 and 2 |
 | `clean_critrole.py` | | Builds `critrole_rolls.csv` from the CritRoleStats exports |
 | `clean_chars.py` | | Builds cleaned character tables (`chars_clean.csv`, `char_classes_long.csv`) from `dnd_chars_unique.tsv` |
+| `analysis/char_deep_dive/` | | Character deep dive (rule compliance, book adoption, popular choices, player habits). Rebuild every table with `python analysis/char_deep_dive/run_all.py dnd_chars_unique.tsv out/`; spec in `specs/char-deep-dive/` |
 
 ## Characters
 

@@ -21,6 +21,7 @@ Part of a side project exploring D&D data: what players build, what the rules al
 | `flatten_fireball.py` | | Builds the four FIREBALL tables from the raw dataset |
 | `critrole_rolls.csv` | 28,878 | Every recorded roll in Critical Role campaigns 1 and 2 |
 | `clean_critrole.py` | | Builds `critrole_rolls.csv` from the CritRoleStats exports |
+| `clean_chars.py` | | Builds cleaned character tables (`chars_clean.csv`, `char_classes_long.csv`) from `dnd_chars_unique.tsv` |
 
 ## Characters
 
@@ -33,7 +34,9 @@ Useful columns:
 - `level`: total character level
 - `Str`, `Dex`, `Con`, `Int`, `Wis`, `Cha`, `HP`, `AC`
 - `processedSpells`, `feats`, `skills`, `background`, `processedAlignment`, `country`
-- `name`: a hash, not the real name
+- `name`: a hash of the character name; common names collide, so it is not a player ID
+- `finger`: hashed device fingerprint, the closest thing to a player ID (one device has 51 characters)
+- `hash`: unique per row, the character ID
 
 Known limits:
 
@@ -41,6 +44,14 @@ Known limits:
 - About 22% of rows are from Canada and 29% have no country
 - 26% of characters are level 1, so this mostly shows new characters
 - 181 rows have no race
+- `good` and `lawful` are 100% empty
+- A few impossible values (HP up to 3,764, AC up to 222, ability scores of 0 or 100+)
+- In `class`, the first class listed is not always the highest level (22.5% of multiclass characters)
+
+Cleaned tables (not committed; rebuild with `python clean_chars.py dnd_chars_unique.tsv out/`):
+
+- `chars_clean.csv`, one row per character: `race_clean` (processedRace with one typo fixed), `main_class` (highest-level class, Revised Ranger counted as Ranger, homebrew as Other), `class_combo` (classes sorted A to Z), `n_classes`, `is_multiclass`, `dip_levels`, `device_char_rank`, and flags `stats_suspect` and `gimmick_build` (4+ classes)
+- `char_classes_long.csv`, one row per character and class, with that class's level and `is_main`
 
 ## SRD tables
 

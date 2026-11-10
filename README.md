@@ -26,6 +26,7 @@ Part of a side project exploring D&D data: what players build, what the rules al
 | `analysis/spells/` | | Spell analysis: what is learned, learned vs used in play (FIREBALL), in-play effect, spell schools. Rebuild with `python analysis/spells/run_all.py . out_spells/`; spec in `specs/spell-analysis/` |
 | `analysis/combat/` | | Combat analysis on FIREBALL: class damage, healing and control (incl. a control event study), who drops below 20% HP, multiclass vs single class. Rebuild with `python analysis/combat/run_all.py . out_combat/`; spec in `specs/combat-analysis/` |
 | `analysis/spell_picks/` | | Underrated-but-useful spells and per-level picks by in-play usefulness (damage, control, healing within level and tier). Rebuild with `python analysis/spell_picks/run_all.py . out_picks/`; spec in `specs/spell-picks/` |
+| `analysis/build_advice/` | | Build decisions for a melee striker and a ranged controller (class, multiclass dips, two-handed vs one-handed, monster save failure rates, control spells, armour dips for casters). Rebuild with `python analysis/build_advice/run_all.py . out_build/` |
 
 ## Characters
 
